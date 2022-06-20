@@ -1,0 +1,360 @@
+Date,Time,Original tweet,Clean tweet,Positive,Neutral,Negative
+2022-05-25,5:0,"strategy: 5010HL1h atr20d: 1960.85
+
+25 May 2022 05:00:03 UTC
+🔄 'None' 14:00:03 JST
+--- 30633.0  long_entry_trigger
+ &gt;  30062.0  last_price $BTC/USD
+--- 28605.5  short_entry_trigger
+
+#BTC/USD perpetual contract on #BitMEX",5010hl1h 196085 25 may 2022 utc none jst 306330 longentrytrigger gt 300620 lastprice btcusd 286055 shortentrytrigger btcusd perpetual contract on bitmex,0.03480664640665054,0.9387102723121643,0.02648305706679821
+2022-05-25,5:0,"Bitcoin - BTC
+Price: $30,076.14
+Change in 1h: -0.21094409%
+Market cap: $572,911,340,683.48
+Ranking: 1
+#Bitcoin #BTC",bitcoin btc 3007614 change in 021094409 market 57291134068348 1 bitcoin btc,0.029687710106372833,0.851624608039856,0.1186877191066742
+2022-05-25,5:0,Current BTC Dominance: 44.61% #Bitcoin #Altcoin #Cryptocurrency,current btc 4461 bitcoin altcoin cryptocurrency,0.026675261557102203,0.9417499899864197,0.03157469630241394
+2022-05-25,5:0,"#Bitcoin is currently $30,051.5604",bitcoin is currently 300515604,0.019046600908041,0.9354060292243958,0.045547425746917725
+2022-05-25,5:0,"1 #BTC = 29692.4306 #CHF
+1 #ETH = 1978.285 #CHF
+1 #DOGE = 0.080406066 #CHF
+sources: @binance @bity",1 btc 296924306 chf 1 eth 1978285 chf 1 doge 0080406066 chf binance bity,0.049529336392879486,0.92731773853302,0.023152904585003853
+2022-05-25,5:0,"#BTC $30098  $BTC
+#ETH $2005.34  $Eth
+#BNB $333.17  $Bnb",btc 30098 btc eth 200534 eth bnb 33317 bnb,0.05328652635216713,0.9248484969139099,0.021864935755729675
+2022-05-25,5:0,Bitcoin blocks size distribution per pool in last month https://t.co/JQwPzDe5UN #BTC #bitcoin #R #ggplot2 https://t.co/asYciL3arp,bitcoin blocks size distribution per pool in last month btc bitcoin r ggplot2,0.025039318948984146,0.9302898645401001,0.04467083886265755
+2022-05-25,5:0,"Bitcoin: $30068.76
+💔 -103.08 last 1 Hour (-0.34%)
+💚 +438.71 last 5 Hours (+1.48%)
+💚 +740.41 last 24 Hours (+2.52%)
+
+#BitcoinPriceUpdates #Bitcoin #HourlyCrypto #CryptoUpdates #Crypto
+Powered By @CryptoCompare API",3006876 10308 last 1 hour 034 43871 last 5 hours 148 74041 last 24 hours 252 bitcoinpriceupdates bitcoin hourlycrypto cryptoupdates crypto powered by cryptocompare api,0.03958001360297203,0.9332560896873474,0.027163898572325706
+2022-05-25,5:0,Bitcoin blocks delay in last weeek https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/rA5LW4YjRo,bitcoin blocks delay in last weeek btc bitcoin r ggplot2,0.019976632669568062,0.4263017773628235,0.55372154712677
+2022-05-25,5:0,Bitcoin blocks delay in last month https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/xl8bbn8cik,bitcoin blocks delay in last month btc bitcoin r ggplot2,0.02587967738509178,0.6296444535255432,0.3444759249687195
+2022-05-25,5:0,"#Cryptocurrencies Current Prices:
+
+#Bitcoin
+$ 30069.27
+€ 28073.82
+
+#Ethereum
+$ 2003.88
+€ 1870.81
+
+#Cardano
+$ 0.5241
+€ 0.4887
+
+#blockchain #BTC #ETH #ADA #tokens #smartcontracts",cryptocurrencies current bitcoin 3006927 2807382 ethereum 200388 187081 cardano 05241 04887 blockchain btc eth ada tokens smartcontracts,0.03546065092086792,0.9417579174041748,0.022781383246183395
+2022-05-25,5:0,Bitcoin blocks size distribution per pool in last week https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/eiDCTWDcuX,bitcoin blocks size distribution per pool in last week btc bitcoin r ggplot2,0.025369497016072273,0.9294195175170898,0.04521100968122482
+2022-05-25,5:0,Bitcoin free space in mined blocks in last month https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/LeibHqYmwR,bitcoin free space in mined blocks in last month btc bitcoin r ggplot2,0.03775540739297867,0.9348773956298828,0.027367159724235535
+2022-05-25,5:0,Bitcoin blocks size distribution per pool in last day https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/cP3KrH0mLU,bitcoin blocks size distribution per pool in last day btc bitcoin r ggplot2,0.023520853370428085,0.9303073287010193,0.046171803027391434
+2022-05-25,5:0,Bitcoin blocks delay in last day https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/3ddtP1yS68,bitcoin blocks delay in last day btc bitcoin r ggplot2,0.02444947138428688,0.679814875125885,0.2957356572151184
+2022-05-25,5:0,Bitcoin free space in mined blocks in last week https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/zdyfa9xBny,bitcoin free space in mined blocks in last week btc bitcoin r ggplot2,0.037118494510650635,0.9344906806945801,0.02839077077805996
+2022-05-25,5:0,Bitcoin free space in mined blocks in last day https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/mo7COSuhTz,bitcoin free space in mined blocks in last day btc bitcoin r ggplot2,0.030911657959222794,0.9322965145111084,0.0367918461561203
+2022-05-25,5:0,Bitcoin mined blocks distribution per pool in last day https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/9rcjVxxfNY,bitcoin mined blocks distribution per pool in last day btc bitcoin r ggplot2,0.023793594911694527,0.9372583031654358,0.038948070257902145
+2022-05-25,5:0,Bitcoin mined blocks distribution per pool in last month https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/Jk3cJ2wixB,bitcoin mined blocks distribution per pool in last month btc bitcoin r ggplot2,0.02560083568096161,0.9355983734130859,0.03880077973008156
+2022-05-25,5:0,Bitcoin mined blocks distribution per pool in last week https://t.co/JQwPzDdy5f #BTC #bitcoin #R #ggplot2 https://t.co/QU9140HzTF,bitcoin mined blocks distribution per pool in last week btc bitcoin r ggplot2,0.026306793093681335,0.9328827857971191,0.04081045091152191
+2022-05-25,5:0,"#Bitcoin Price Rises Within Range, but $30.6K Remains Resistance. If #BTC fails to break through the $30,600 resistance zone, it may fall further. An immediate support on the downside is near the $29,600 level.
+
+#cryptocurrency #Crypto #DigitalWalletsNews",bitcoin price rises within range but 306k remains resistance if btc fails to break through the 30600 resistance zone it may fall further an immediate support on the downside is near the 29600 level cryptocurrency crypto digitalwalletsnews,0.049844466149806976,0.09186612814664841,0.858289361000061
+2022-05-25,5:0,"#Hiring?
+Sign up now https://t.co/o7lVlsl75X
+FREE. NO MIDDLEMAN
+#ArtificialIntelligence #MachineLearning #Python #DataScience #innovation #IoT #Industry40 #DigitalMarketing #CyberSecurity #coding #NodeJS #javascript #django #100DaysOfCode #Tech #programming #Job #Bitcoin #HR #AI https://t.co/fgCfGHhrVT",hiring sign up now free no middleman artificialintelligence machinelearning python datascience innovation iot industry40 digitalmarketing cybersecurity coding nodejs javascript django 100daysofcode tech programming job bitcoin hr ai,0.04632516950368881,0.9275439977645874,0.02613084390759468
+2022-05-25,5:0,"#Bitcoin (#BTC) Price Update:
+    
+Price: $30,098
+Last Hour: -0.23%
+Last 24 Hrs: +2.45%
+Last 7 Days: -1.32%
+Last 30 Days: -23.74%
+Last 365 Days: -22.11%",bitcoin btc price 30098 last 023 last 24 245 last 7 132 last 30 2374 last 365 2211,0.024265216663479805,0.9293433427810669,0.046391427516937256
+2022-05-25,5:0,Panic sellers drive a Mini.   #Bitcoin,panic sellers drive a mini bitcoin,0.02493562549352646,0.8983923196792603,0.0766720324754715
+2022-05-25,5:0,Every day we’re here is truly a gift.  #Bitcoin #Crypto,every day were here is truly a gift bitcoin crypto,0.06619907915592194,0.9161688685417175,0.017632026225328445
+2022-05-25,5:0,"@VeraSaw Great Thanksgiving for the giveaway Airdrop i am glad to part of it really Huge potential in future 🔥🔥🔥
+
+@Afrizacripto 
+@mhmdfikri66
+@DikdikH33815896
+
+#Airdrop #Bitcoin #VERASAW",verasaw great thanksgiving for the giveaway airdrop i am glad to part of it really huge potential in future afrizacripto mhmdfikri66 dikdikh33815896 airdrop bitcoin verasaw,0.42796584963798523,0.5605134963989258,0.011520628817379475
+2022-05-25,5:0,what is the single most important #Bitcoin book?,what is the single most important bitcoin book,0.031404297798871994,0.9305163621902466,0.03807928413152695
+2022-05-25,5:0,"#BTC back above $30,000",btc back above 30000,0.2929205596446991,0.5935537815093994,0.11352559924125671
+2022-05-25,5:0,"@bitcoin_regular Fantastic Exchange #Btrl #Btc #Bitcoin #LTC #Ethereum #Btrlexchange #CoinMarketCap 
+@DynamicAirdrops @AirdropRampage @AirdropStario @Airdrop365Team @AirdropBSC_Com",bitcoinregular fantastic exchange btrl btc bitcoin ltc ethereum btrlexchange coinmarketcap dynamicairdrops airdroprampage airdropstario airdrop365team airdropbsccom,0.05925403907895088,0.9250611662864685,0.01568480394780636
+2022-05-25,5:0,"Step 1, reach consensus in what the problem is. Step 2, reach consensus in what the solution is. We're almost there with step 1. Almost... #Bitcoin",step 1 reach consensus in what the problem is step 2 reach consensus in what the solution is we are almost there with step 1 almost bitcoin,0.20954348146915436,0.7785806059837341,0.01187595073133707
+2022-05-25,5:0,"JUST IN: 🇺🇸 Senator Ted Cruz says he wants “Texas to be the oasis on planet Earth for #Bitcoin  and crypto.""",just senator ted cruz says he wants texas to be the oasis on planet earth for bitcoin and crypto,0.1780090630054474,0.8119802474975586,0.010010680183768272
+2022-05-25,5:0,Any #altcoin can become #terraluna make sure you invest what you can afford to lose completely. #crypto #Bitcoin,any altcoin can become terraluna make sure you invest what you can afford to lose completely crypto bitcoin,0.030211756005883217,0.9471719861030579,0.02261621132493019
+2022-05-25,5:0,@orderoutofkos We are lucky to be able to purchase #BTC  at .50cents again.  😉,orderoutofkos we are lucky to be able to purchase btc at 50cents again,0.9152626395225525,0.07476510852575302,0.009972206316888332
+2022-05-25,5:0,"2018 Btc ( 20 k )  top to 2021 ATH ( 70 k )  was a 350 % increase 
+
+Where #BTC will top at the next cycle",2018 btc 20 k top to 2021 ath 70 k was a 350 increase where btc will top at the next cycle,0.44968873262405396,0.531204342842102,0.019106976687908173
+2022-05-25,5:0,"In the past when it happened we have seen #BTC rallying. Let’s see which metrics will be true this time. For me, breaking $31k will be real challenge as #BTC is not reacting to the US stock exchanges or even to fundamental news. So 🐻are having firm grip. Let’s hope for the best!",in the past when it happened we have seen btc rallying lets see which metrics will be true this time for me breaking 31k will be real challenge as btc is not reacting to the us stock exchanges or even to fundamental news so are having firm grip lets hope for the best,0.8978481888771057,0.0897696241736412,0.012382165528833866
+2022-05-25,5:0,"Top 10 Cyptocurrencies in the World by Twitter Followers (25/MAY/2022) 
+
+1. #BNB  Binance 8.89M
+2. #Bitcoin  5.28M
+3. #Dogecoin 3.38M
+4. #SHIB 3.36M
+5. #Ethereum 2.55M 
+6. #XRP 2.51M
+7. #CRO  2.16M
+8. #Solana 1.82M 
+9. #Polygon 1.51M
+10. #BabyDoge 1.41M",top 10 cyptocurrencies in the world by twitter followers 25may2022 1 bnb binance 889m 2 bitcoin 528m 3 dogecoin 338m 4 shib 336m 5 ethereum 255m 6 xrp 251m 7 cro 216m 8 solana 182m 9 polygon 151m 10 babydoge 141m,0.09776376187801361,0.8824167251586914,0.019819585606455803
+2022-05-25,5:0,"In the future, I think each an every individual can run energy efficient hardware at home to secure and decentralise #Bitcoin network
+ 🤤💚🍕",in the future i think each an every individual can run energy efficient hardware at home to secure and decentralise bitcoin network,0.2984244227409363,0.6937451362609863,0.007830431684851646
+2022-05-25,5:0,Create automated tasks with @jobboycom API Deposit withdraw with #crypto #bitcoin,create automated tasks with jobboycom api deposit withdraw with crypto bitcoin,0.04047772288322449,0.9392165541648865,0.020305754616856575
+2022-05-25,5:0,What comes first for #bitcoin,what comes first for bitcoin,0.028873039409518242,0.9449268579483032,0.026200080290436745
+2022-05-25,5:0,You don't have to like it... 👀 but Maxis lie. Data never lies. #SHIB v. #BTC #shibainu #cryptocurrency,you do not have to like it but maxis lie data never lies shib v btc shibainu cryptocurrency,0.03279375657439232,0.9290691614151001,0.038137149065732956
+2022-05-25,5:0,"@BrightyPad Good Project with strong community and solid Team. I am verry happy to be participating in this project and I hope this project will be more bigger in the future. 
+@jerry_mkw
+@Surya_Hal
+@Cryptoman_01
+#Airdrops #Bitcoin #BrightyPad #AirdropDet #Crypto #Blockchain #BYP",brightypad good project with strong community and solid team i am verry happy to be participating in this project and i hope this project will be more bigger in the future jerrymkw suryahal cryptoman01 airdrops bitcoin brightypad airdropdet crypto blockchain byp,0.37999987602233887,0.6117861866950989,0.008213967084884644
+2022-05-25,5:0,"@freedomprot #Binance #ETH #Bitcoin #Cryptocurrency #BinanceSmartChain #Airdrop #Airdrops #Crypto #BSC
+🖐️Do you have one minute?
+
+@sssaskar
+@askarirani
+@mmmdrahimi",freedomprot binance eth bitcoin cryptocurrency binancesmartchain airdrop airdrops crypto bsc do you have one minute sssaskar askarirani mmmdrahimi,0.04972483962774277,0.9280928373336792,0.022182319313287735
+2022-05-25,5:0,"Excellent company. Interesting idea. Good prospects for development. This ICO has big plans for the future. I believe that it is worth paying attention
+ #FamouBlock #FOB #Digifinex #Bitcoin #Cryptocurrency #Binance #BNB",excellent company interesting idea good prospects for development this ico has big plans for the future i believe that it is worth paying attention famoublock fob digifinex bitcoin cryptocurrency binance bnb,0.357662558555603,0.6342676877975464,0.00806976668536663
+2022-05-25,5:0,"@airdropinspect #Binance #ETH #Bitcoin #Cryptocurrency #BinanceSmartChain #Airdrop #Airdrops #Crypto #BSC
+New airdrop: Freedom Protocol (FREE)
+
+@sssaskar
+@askarirani
+@mmmdrahimi",airdropinspect binance eth bitcoin cryptocurrency binancesmartchain airdrop airdrops crypto bsc new freedom protocol free sssaskar askarirani mmmdrahimi,0.07115998864173889,0.9130210280418396,0.015818946063518524
+2022-05-25,5:0,"Please suggest me small coin 
+Like shib
+#cryptocurrency #SHIBARMY #memecoins #shiba #doge #KuCoin #lunacoin #lunaburn #Binance #BTC #BabyDogeCoin",please suggest me small coin like shib cryptocurrency shibarmy memecoins shiba doge kucoin lunacoin lunaburn binance btc babydogecoin,0.07321814447641373,0.9127953052520752,0.013986513018608093
+2022-05-25,5:0,"💎Which would you choose to invest in #crypto or #gold?
+
+#Bitcoin #cryptocurrency #altcoins",which would you choose to invest in crypto or gold bitcoin cryptocurrency altcoins,0.03212762251496315,0.9497175216674805,0.01815480925142765
+2022-05-25,5:0,"🟩 Block 737794 ⛏ ⛏
+
+📅 25th May 2022, 04:55:58 GMT
+
+📣 2,333 tx with a value of 12,664.906 ₿ ($380.85m 🇺🇸)
+
+📣 distributed to 7,261 recipients 💎🙌
+
+📣 19,048,718.75 ₿ (90.70818%) mined ⛏
+
+📣 1,951,281.25 ₿ remaining 💰
+
+#bitcoin #tictoknextblock",block 737794 25th may 2022 gmt 2333 tx with a value of 12664906 38085m distributed to 7261 recipients 1904871875 9070818 mined 195128125 remaining bitcoin tictoknextblock,0.0572054386138916,0.9189942479133606,0.023800313472747803
+2022-05-25,5:0,"@orderoutofkos Facts.  only #Bitcoin surpasses it, for now. 🧠",orderoutofkos facts only bitcoin surpasses it for now,0.33868616819381714,0.6410903930664062,0.020223453640937805
+2022-05-25,5:0,"@Dennis_Porter_ @saylor Only you and Saylor must defend #Bitcoin 
+
+The rest just watch",dennisporter saylor only you and saylor must defend bitcoin the rest just watch,0.04281371459364891,0.9349725246429443,0.0222137700766325
+2022-05-25,5:0,@CryptoTownEU My good job #binance￼ #Bitcoin￼￼ #USDTether￼￼,cryptotowneu my good job binance bitcoin usdtether,0.0871838703751564,0.8849660158157349,0.02785010263323784
+2022-05-25,5:0,@strangechances Twentyonemillion.eth #bitcoin,strangechances twentyonemillioneth bitcoin,0.06038186326622963,0.9108685851097107,0.02874957025051117
+2022-05-25,5:0,We r all in profit.    #Bitcoin,we r all in profit bitcoin,0.1406107395887375,0.8410702347755432,0.018319077789783478
+2022-05-25,5:0,"Thoughts on the bear 
+Every cycle in crypto there’s a new set of alts that hog up the limelight. So I would suggest waiting before pulling the trigger on #alts (except $ETH).
+#Sol is the only L1 that I will touch other than #ETH for now. Let’s wait to pull triggers on alts #btc",thoughts on the bear every cycle in crypto theres a new set of alts that hog up the limelight so i would suggest waiting before pulling the trigger on alts except eth sol is the only l1 that i will touch other than eth for now lets wait to pull triggers on alts btc,0.05153666064143181,0.9259646534919739,0.02249877341091633
+2022-05-25,5:0,"👋 A new block was found on the #Bitcoin network. We're at block height 737794, current #bitcoin price is $30061.05 and there are 195125622690011 #sats left to mine.",a new block was found on the bitcoin network we are at block height 737794 current bitcoin price is 3006105 and there are 195125622690011 sats left to mine,0.0279054194688797,0.9332546591758728,0.03883996605873108
+2022-05-25,5:0,What is harder to achieve &amp; more important? #Crypto #Bitcoin,what is harder to achieve more important crypto bitcoin,0.04418742284178734,0.9314098954200745,0.02440273016691208
+2022-05-25,5:0,SBI Motor Japan is now accepting #Bitcoin and #XRP as a payment method.  #adoption,sbi motor japan is now accepting bitcoin and xrp as a payment method adoption,0.15852078795433044,0.8341573476791382,0.007321871351450682
+2022-05-25,5:0,Will the price of #Bitcoin drop again ? 💡,will the price of bitcoin drop again,0.06048024818301201,0.574699878692627,0.36481988430023193
+2022-05-25,5:0,Sssh! 🤫 major pump is coming in #bitcoin,sssh major pump is coming in bitcoin,0.3406546413898468,0.6444862484931946,0.01485910452902317
+2022-05-25,5:0,"What will be your reaction, if BTC price touch near zero?
+#BTC",what will be your reaction if btc price touch near zero btc,0.02520596794784069,0.9201974272727966,0.05459665134549141
+2022-05-25,5:0,"Whales always look at “realized price” as a benchmark for long term purchase. Currently the RP of #bitcoin is at $23791 so anytime you see prices around or below it then just grab some. On the other hand, #DXY is hitting resistance &amp; we are seeing reversal.",whales always look at realized price as a benchmark for long term purchase currently the rp of bitcoin is at 23791 so anytime you see prices around or below it then just grab some on the other hand dxy is hitting resistance we are seeing reversal,0.12735392153263092,0.8394790887832642,0.0331670381128788
+2022-05-25,5:0,Anyone into #crypto if so what coins do you hold? #altcoins 😉 one of mine is👉🏽  $tel @telcoin_team #btc,anyone into crypto if so what coins do you hold altcoins one of mine is tel telcointeam btc,0.02577226422727108,0.9479708075523376,0.026256872341036797
+2022-05-25,5:0,"2023 Prediction:
+
+#Dogecoin flips #Bitcoin",2023 dogecoin flips bitcoin,0.03389936313033104,0.9416746497154236,0.024426031857728958
+2022-05-25,5:0,Current #Bitcoin Price is $30070 #BTC #Crypto,current bitcoin price is 30070 btc crypto,0.024612663313746452,0.9512853026390076,0.024101998656988144
+2022-05-25,5:0,"Cryptocurrency Prices One Year Ago Today
+
+#Bitcoin : $34,770
+#Ethereum: $2,109
+#LUNA: $4.11
+#VeChain: $0.08
+#MATIC: $1.09
+#Solana: $24.69
+#DOGE: $0.30
+#AVAX : $15.76
+#SHIB: $0.000008134
+#ADA: $1.33
+#CRO : $0.097
+#BNB : $262
+#XRP: $.79
+#UST: $1
+Add #others 👇🏻",cryptocurrency prices one year ago today bitcoin 34770 2109 411 008 109 2469 030 avax 1576 0000008134 133 cro 0097 bnb 262 79 1 add others,0.04715937748551369,0.92791348695755,0.024927159771323204
+2022-05-25,5:0,"Guggenheim CIO Says #Bitcoin Could Sink To $8,000 Amid Claim New All-Time High Unlikely Until 2024",guggenheim cio says bitcoin could sink to 8000 amid claim new alltime high unlikely until 2024,0.019411597400903702,0.02368989773094654,0.95689857006073
+2022-05-25,5:0,"@workquest_co 
+Wonderful project, this project is very good and this projector has a lot of attractions,So hopefully the project will be better in the future. 
+#WorkQuest $WQT $WUSD #WorkNet #WorkQuestApp #blockchian #crypto #cryptolife #BTC #BNB #ETH #saving #BinanceSmartChain",workquestco wonderful project this project is very good and this projector has a lot of attractionsso hopefully the project will be better in the future workquest wqt wusd worknet workquestapp blockchian crypto cryptolife btc bnb eth saving binancesmartchain,0.4532961845397949,0.5383002161979675,0.008403552696108818
+2022-05-25,5:0,@BitcoinMagazine @tedcruz For being intelligent enough to understand #bitcoin I’ll vote for Ted Cruise next election 🔥🔥🔥,bitcoinmagazine tedcruz for being intelligent enough to understand bitcoin ill vote for ted cruise next election,0.10507255047559738,0.8794668316841125,0.015460669063031673
+2022-05-25,5:0,"Scarcity adds value.
+#Bitcoin",scarcity adds value bitcoin,0.2184889167547226,0.7307953238487244,0.050715815275907516
+2022-05-25,5:0,@SGBarbour @saylor @hodlXhold Baseball is #bitcoin,sgbarbour saylor hodlxhold baseball is bitcoin,0.034543655812740326,0.9265325665473938,0.03892376646399498
+2022-05-25,5:0,There are some really stupid #Bitcoin price predictions out there! Just remember everyone got the $100k price wrong. Now the peeps calling $8k. 🤣,there are some really stupid bitcoin price predictions out there just remember everyone got the 100k price wrong now the peeps calling 8k,0.047899145632982254,0.8404542207717896,0.11164667457342148
+2022-05-25,5:0,What's your forecast for $bitcoin #bitcoin in June?,what is your forecast for bitcoin bitcoin in june,0.024893149733543396,0.9322776198387146,0.042829252779483795
+2022-05-25,5:0,"If you have lost 70-90% in cryptos you should follow my advices. I have made 160%+ in 2 weeks. I can buy alot more shitcoins you have lost money on after few weeks or maybe after 6 months when you will be totally destroyed. Join me or Fail!!
+#babydoge #kishu #shib #ADA #btc #sol",if you have lost 7090 in cryptos you should follow my advices i have made 160 in 2 weeks i can buy alot more shitcoins you have lost money on after few weeks or maybe after 6 months when you will be totally destroyed join me or fail babydoge kishu shib ada btc sol,0.048658739775419235,0.9007759094238281,0.05056535452604294
+2022-05-25,5:0,GM everyone who believes in #bitcoin ☀️,gm everyone who believes in bitcoin,0.057020701467990875,0.9234471917152405,0.019532091915607452
+2022-05-25,5:0,"#BurgerSwap ( $BURGER ) 
+Market Cap $21,248,103
+76.87% 🔥
+
+Fully Diluted Market Cap $21,634,621
+76.87% 🔥
+
+Volume 24h - $92,308,169
+1990.44% 🔥
+
+Volume / Market Cap 4.43 🔥
+
+@BurgerSwapper @burger_cities #crypto #bnb #bitcoin #BSC #BTC #Binance #BinanceSmartChain #cryptocurrency",burgerswap burger market cap 21248103 7687 fully diluted market cap 21634621 7687 volume 24h 92308169 199044 volume market cap 443 burgerswapper burgercities crypto bnb bitcoin bsc btc binance binancesmartchain cryptocurrency,0.03727550059556961,0.9418309926986694,0.020893553271889687
+2022-05-25,5:0,"@rocket__crypto @AtEMCOIN #Bitcoin 
+#Ethereum 
+Awesome 
+🚀🚀🌠🌠💐💐💐",rocketcrypto atemcoin bitcoin ethereum awesome,0.037873681634664536,0.942537248134613,0.019589103758335114
+2022-05-25,5:0,Bitcoin to $1100.000 today?   #Bitcoin,bitcoin to 1100000 today bitcoin,0.02635156735777855,0.9302616119384766,0.0433867871761322
+2022-05-25,5:0,Watch the #NASDAQ rally tomorrow or next day...You know what this means #BTC,watch the nasdaq rally tomorrow or next dayyou know what this means btc,0.043232765048742294,0.9352961182594299,0.021471165120601654
+2022-05-25,5:0,@AltcoinDailyio I’ll rather invest 30k in #bitcoin and #eth and buy 5k car,altcoindailyio ill rather invest 30k in bitcoin and eth and buy 5k car,0.09479299932718277,0.8964229226112366,0.008784065023064613
+2022-05-25,5:0,"Top 5 #crypto prices with 24h change:
+
+#BTC #ETH #BNB #XRP #ADA 
+
+🟢 $BTC $30075.64 (2.35%)
+🟢 $ETH $2003.36 (0.72%)
+🟢 $BNB $332.8 (1.34%)
+🔴 $XRP $0.4103 (-0.44%)
+🟢 $ADA $0.5239 (0.42%)
+
+Do you #hodl any of these coins?",top 5 crypto prices with 24h btc eth bnb xrp ada btc 3007564 235 eth 200336 072 bnb 3328 134 xrp 04103 044 ada 05239 042 do you hodl any of these coins,0.029258783906698227,0.9458780288696289,0.024863235652446747
+2022-05-25,5:0,"When 34.5K #Bitcoin ?
+
+#btc #poll",when 345k bitcoin btc poll,0.04336799308657646,0.9393669366836548,0.01726504974067211
+2022-05-25,5:0,"""We want grandkids"" best I can do is stack more #Bitcoin and sell your kidneys",we want grandkids best i can do is stack more bitcoin and sell your kidneys,0.06097094714641571,0.9141712188720703,0.024857813492417336
+2022-05-25,5:0,"#BTC Is Pumping!
+$BTC",btc is pumping btc,0.10159394145011902,0.8838739395141602,0.014532078057527542
+2022-05-25,5:0,"@AurelienOhayon #btc and Crypto space is more like 80% pure market manipulation pump and dump, 20% TA",aurelienohayon btc and crypto space is more like 80 pure market manipulation pump and dump 20 ta,0.031544774770736694,0.9432457685470581,0.025209449231624603
+2022-05-25,5:0,"Excellent company. Interesting idea. Good prospects for development. This ICO has big plans for the future. I believe that it is worth paying attention
+#MetapleFinance #Metaple #MLX #blockchain #cryptocurrency #technology #bitcoin #crypto #Binance #BNB #cryptocurrencies #fintech",excellent company interesting idea good prospects for development this ico has big plans for the future i believe that it is worth paying attention metaplefinance metaple mlx blockchain cryptocurrency technology bitcoin crypto binance bnb cryptocurrencies fintech,0.20484782755374908,0.7872242331504822,0.007927956059575081
+2022-05-25,5:0,"@elonmusk I would like this tweet to go around the world, are you ready??? #test #freedom #bitcoin #love #peace",elonmusk i would like this tweet to go around the world are you ready test freedom bitcoin love peace,0.0904468446969986,0.8950808048248291,0.014472318813204765
+2022-05-25,5:0,"Whatever investment  you hold, it basically comes down to others agreeing with you. Consensus.
+
+#Bitcoin = Consensus",whatever investment you hold it basically comes down to others agreeing with you consensus bitcoin consensus,0.053147587925195694,0.9152776002883911,0.031574834138154984
+2022-05-25,5:0,@binance_classi @erik_keefner My good job #binance￼ #Bitcoin￼￼ #USDTether￼￼,binanceclassi erikkeefner my good job binance bitcoin usdtether,0.14995180070400238,0.8199183344841003,0.03012990392744541
+2022-05-25,5:0,@PAWstronaut13 @apollo_river #paw $paw #btc free paw everyday...,pawstronaut13 apolloriver paw paw btc free paw everyday,0.06910181045532227,0.910751223564148,0.020146921277046204
+2022-05-25,5:0,Summary: #BTC is still in the range &amp; it can’t be for long time as some global issue can push it either ways. There are many longs opened now based on the open interests &amp; the funding fees. If the prices don’t move up so much then it will lead to huge liquidation. (1/2),btc is still in the range it can not be for long time as some global issue can push it either ways there are many longs opened now based on the open interests the funding fees if the prices don not move up so much then it will lead to huge liquidation 12,0.018443381413817406,0.07686666399240494,0.9046899080276489
+2022-05-25,5:0,"@BrightyPad I wish this project success sir, and they become one of the best cryptos, I am enthusiastic to participate in this and also support it. @safepal88 @siapt88 @sawungjabo88 
+
+#Airdrops #Bitcoin #BrightyPad #AirdropDet #Crypto #Blockchain #BYP",brightypad i wish this project success sir and they become one of the best cryptos i am enthusiastic to participate in this and also support it safepal88 siapt88 sawungjabo88 airdrops bitcoin brightypad airdropdet crypto blockchain byp,0.43128886818885803,0.5597324371337891,0.008978688158094883
+2022-05-25,5:0,"Bitcoin huge pump incoming
+
+#Bitcoin #BTC $BTC #Binance #cryptocurrency",bitcoin huge pump incoming bitcoin btc btc binance cryptocurrency,0.03134581819176674,0.939635694026947,0.029018459841609
+2022-05-25,5:0,"Private Opinion: I was right. #CryptoMarket #Participants could NOT believe in #Bitcoin / #BTC + #Ethereum / #ETH etc. + #NFT. There could NOT be enough #Money. It should be unimportant, if #FED will rise #InterestRate etc., because there could be enough #Chancepotential. (2/2)",private i was right cryptomarket participants could not believe in bitcoin btc ethereum eth etc nft there could not be enough money it should be unimportant if fed will rise interestrate etc because there could be enough chancepotential 22,0.10302791744470596,0.8160040378570557,0.08096808195114136
+2022-05-25,5:0,"@DWhitmanBTC Slowly the Suddenly...then 🤔
+
+#Bitcoin",dwhitmanbtc slowly the suddenlythen bitcoin,0.060479313135147095,0.919459342956543,0.020061416551470757
+2022-05-25,5:0,"Private Opinion: I was right. #CryptoMarket could have #Value of ~$1 Trillion, because #FED will rise #InterestRate etc. My #Chanceperiment could come to #Result, that #Chancepotential of #Bitcoin / #BTC + #Ethereum / #ETH etc. + #NFT should have a #Value of ~$5 Trillion. (1/2)",private i was right cryptomarket could have value of 1 trillion because fed will rise interestrate etc my chanceperiment could come to result that chancepotential of bitcoin btc ethereum eth etc nft should have a value of 5 trillion 12,0.18048733472824097,0.8036567568778992,0.015855886042118073
+2022-05-25,5:0,#btc back above $30k 🚀,btc back above 30k,0.5191823244094849,0.32775914669036865,0.15305855870246887
+2022-05-25,5:0,"Will #Bitcoin   still touch $60k in 2022?
+
+NO                                YES
+👇                                  👇",will bitcoin still touch 60k in 2022 no yes,0.19699358940124512,0.7896438241004944,0.01336265355348587
+2022-05-25,5:0,For anyone interested in KoaCombat down below is the telegram!!!! No hype zone ALL FACTS #Crypto #cryptocurrecy #Bitcoin…,for anyone interested in koacombat down below is the telegram no hype zone all facts crypto cryptocurrecy bitcoin,0.03224261850118637,0.9413239359855652,0.026433460414409637
+2022-05-25,5:0,"@F00LTIME No, they are saying you should just stick to a bank account since you would A) have more protection there regarding your funds there and above all B) you did not even understand the absolute basic fundamentals of what #Bitcoin is",f00ltime no they are saying you should just stick to a bank account since you would a have more protection there regarding your funds there and above all b you did not even understand the absolute basic fundamentals of what bitcoin is,0.04075239598751068,0.8690669536590576,0.09018068015575409
+2022-05-25,5:0,Bitcoin    #Bitcoin,bitcoin bitcoin,0.025076426565647125,0.9303917288780212,0.04453190416097641
+2022-05-25,5:0,"Very important to #HOLD during a #DIP, don't sell you'll regret it later, eventually, #Stake your #Coins or #Tokens or keep mining, but most importantly make sure the projects you invested in keep building.
+So I'll hold my #BNB's , #Dot , #ETH, #MATIC , #TRX , #DOGE , #BTC etc..",very important to hold during a dip do not sell you will regret it later eventually stake your coins or tokens or keep mining but most importantly make sure the projects you invested in keep building so i will hold my bnb dot eth matic trx doge btc etc,0.07232614606618881,0.9148570895195007,0.012816744856536388
+2022-05-25,5:0,"💥💥Coinbase Becomes First Bitcoin Company Among Fortune 500
+
+Will this help $COIN climb up? 
+
+#cryptocurrency #Coinbase #Bitcoin #crypto",coinbase becomes first bitcoin company among fortune 500 will this help coin climb up cryptocurrency coinbase bitcoin crypto,0.7994846701622009,0.19219453632831573,0.008320764638483524
+2022-05-25,5:0,Current #Bitcoin Price is $30073 #BTC #Crypto,current bitcoin price is 30073 btc crypto,0.022301174700260162,0.9520900249481201,0.02560877986252308
+2022-05-25,5:0,"#Bitcoin 📈 
+
+▓▓▓▓▓░░░░░░░░░░ 31%
+
+price:$30044.06      eth/btc: 0.07",bitcoin 31 007,0.030829837545752525,0.9301158785820007,0.0390542708337307
+2022-05-25,5:0,"🚀 🚀 🚀 $1,497,945 BTCUSDT LONGED @$30,090.10 on #Binance (4:49:58 UTC) #BTC #cryptocurrency",1497945 btcusdt longed 3009010 on binance utc btc cryptocurrency,0.03905344754457474,0.9292458295822144,0.03170067444443703
+2022-05-25,5:0,@AgoristView Not if they put #Bitcoin in the tweet as well,agoristview not if they put bitcoin in the tweet as well,0.019524017348885536,0.9007209539413452,0.07975506037473679
+2022-05-25,5:0,"Lets be realistic, this was a bit expected #CHESS #CHESSBTC 
+
+#Money #ビットコイン #инвестиции #BTC #биткойн
+To Become part of our PREMIUM SIGNALS channel, PM ME!",lets be realistic this was a bit expected chess chessbtc money ビットコイン инвестиции btc биткойн to become part of our premium signals channel pm me,0.059708625078201294,0.9242357611656189,0.01605558767914772
+2022-05-25,5:0,Aion (AION) went down 10.1 percent in the last 30 minutes on Binance. #AION  #crypto #bitcoin #cryptocurrency #btc #ethereum #blockchain #eth #trading #altcoin #binance #cryptonews,aion aion went down 101 percent in the last 30 minutes on binance aion crypto bitcoin cryptocurrency btc ethereum blockchain eth trading altcoin binance cryptonews,0.008293704129755497,0.027355773374438286,0.9643504619598389
+2022-05-25,5:0,"Zing! MicroStrategy's $3.97 billion (129,218BTC) #Bitcoin fund is now worth $3,888,544,352 -2.05% | Current BTC price: $30,093
+
+Share price was $118.22, now $193.01 which is +63.26% since Bitcoin capital allocation strategy announcement on 08-Jul-20. I take tips",zing microstrategy 397 billion 129218btc bitcoin fund is now worth 3888544352 205 current btc 30093 share price was 11822 now 19301 which is 6326 since bitcoin capital allocation strategy announcement on 08jul20 i take tips,0.04169869422912598,0.9346482157707214,0.023653138428926468
+2022-05-25,5:0,"10 Billion taken off USDT. 
+
+Not gonna lie, I’m dreading the fall of USDT, but it’s a necessary evil. Only after it falls can we start with a clean slate and a true value to crypto. 
+
+It will be a very cold summer  2022.
+
+Buckle up. 
+
+ #Ripple #Crypto #btc #eth #XRP #altcoin",10 billion taken off usdt not gonna lie im dreading the fall of usdt but its a necessary evil only after it falls can we start with a clean slate and a true value to crypto it will be a very cold summer 2022 buckle up ripple crypto btc eth xrp altcoin,0.06441108882427216,0.8867620229721069,0.0488269068300724
+2022-05-25,5:0,#bitcoin  is the same price it was when I went to sleep... 🥱🥱🥱,bitcoin is the same price it was when i went to sleep,0.04521670192480087,0.9347895383834839,0.019993705675005913
+2022-05-25,5:0,"Still can’t believe I pulled all my #crypto out of @QuadrigaCoinEx #quadrigacx literally days before they ran away with $200m. This was back in 2017/18 when #Eth was like $500. True representation of whatever is written for u, u will get no matter what. #BTC #blockchain #xrp #cex",still can not believe i pulled all my crypto out of quadrigacoinex quadrigacx literally days before they ran away with 200m this was back in 201718 when eth was like 500 true representation of whatever is written for u u will get no matter what btc blockchain xrp cex,0.04066877067089081,0.9073209762573242,0.052010271698236465
+2022-05-25,5:0,"@FinancialReview Because people think there's nothing else worth buying?
+
+#Bitcoin fixes this.",financialreview because people think there is nothing else worth buying bitcoin fixes this,0.044910043478012085,0.9125656485557556,0.04252439737319946
+2022-05-25,5:0,Chess (CHESS) went up 11.2 percent in the last 30 minutes on Binance. #CHESS  #crypto #bitcoin #cryptocurrency #btc #ethereum #blockchain #eth #trading #altcoin #binance #cryptonews,chess chess went up 112 percent in the last 30 minutes on binance chess crypto bitcoin cryptocurrency btc ethereum blockchain eth trading altcoin binance cryptonews,0.8863103985786438,0.10115271061658859,0.01253682840615511
+2022-05-25,5:0,Are we going down after the 1st week of June 2022 ???? #btc #bitcoin #crypto #ethereum,are we going down after the 1st week of june 2022 btc bitcoin crypto ethereum,0.02324286848306656,0.805726945400238,0.171030193567276
+2022-05-25,5:0,@LunaRedClassic My good job #binance￼ #Bitcoin￼￼ #USDTether￼￼,lunaredclassic my good job binance bitcoin usdtether,0.08250175416469574,0.8901057839393616,0.02739240974187851
+2022-05-25,5:0,"#bitcoin news from Central African Republic is nice, but you must keep it in perspective &gt; Central African Republic is one of the poorest countries on Earth with its GDP per capita of ~$500 ... and it is one of the smallest economies on Earth with a population of less than 5 mln",bitcoin news from central african republic is nice but you must keep it in perspective gt central african republic is one of the poorest countries on earth with its gdp per capita of 500 and it is one of the smallest economies on earth with a population of less than 5 mln,0.017567524686455727,0.17383749783039093,0.8085949420928955
+2022-05-25,5:0,#bitcoin army!,bitcoin army,0.025064170360565186,0.9420862197875977,0.03284956514835358
+2022-05-25,5:0,"This project stands out from others for its realism and excellent qualities of the team, which is focused on achieving real result
+#WorkQuest $WQT $WUSD #WorkNet #WorkQuestApp #blockchian #crypto #cryptolife #BTC #BNB #ETH #digitalization #digitalassets #saving #BinanceSmartChain",this project stands out from others for its realism and excellent qualities of the team which is focused on achieving real result workquest wqt wusd worknet workquestapp blockchian crypto cryptolife btc bnb eth digitalization digitalassets saving binancesmartchain,0.5594933032989502,0.4324205219745636,0.008086230605840683
+2022-05-25,5:0,"📉#BTC | Decreasing 1.37%
+Average price for the last hour: BTCUSDT - 29869.2",btc decreasing 137 average price for the last btcusdt 298692,0.0429869182407856,0.9135130047798157,0.043500084429979324
+2022-05-25,5:0,@connordpeters @BitcoinMagazine @tedcruz Stocks have dropped worse than #Bitcoin. Those a scam too?,connordpeters bitcoinmagazine tedcruz stocks have dropped worse than bitcoin those a scam too,0.027173856273293495,0.01589483581483364,0.9569312930107117
+2022-05-25,5:0,"@DrFamilyAllergy @kennyom59879450 @BitMartExchange also gives reflections. Grab your tokens . @terareum  is going to rock . 
+
+#Cryptos #cryptocurrencies #bestcrypto #bestcryptoproject #bestblockchain #freegasblockchain #btc #eth #ada  #BSCGems #metaverse #bitcoin",drfamilyallergy kennyom59879450 bitmartexchange also gives reflections grab your tokens terareum is going to rock cryptos cryptocurrencies bestcrypto bestcryptoproject bestblockchain freegasblockchain btc eth ada bscgems metaverse bitcoin,0.06843529641628265,0.9133038520812988,0.018260903656482697
+2022-05-25,5:0,@TheCryptoLark damne like bad whale #Luna 's trader if #btc going to crash!,thecryptolark damne like bad whale luna trader if btc going to crash,0.0503520742058754,0.6961777806282043,0.25347021222114563
+2022-05-25,5:0,create twitter tasks and pay with #bitcoin #ethereum #litecoin #nft #airdrop with @jobboycom,create twitter tasks and pay with bitcoin ethereum litecoin nft airdrop with jobboycom,0.03466211259365082,0.9412561058998108,0.024081749841570854
+2022-05-25,5:0,"We are a secret organization. 
+swapping cryptocurrency at a ratio of 1:1.1~3 or more
+Ex, if you give us $100 worth of #bitcoin , I'll immediately exchange it for $110-120 worth of #ethereum
+telegram: @exc00
+Starting with a small amount.
+#BTC #XRP #ADA #LUNA",we are a secret organization swapping cryptocurrency at a ratio of or more ex if you give us 100 worth of bitcoin i will immediately exchange it for 110120 worth of ethereum exc00 starting with a small amount btc xrp ada luna,0.05467147380113602,0.9321116805076599,0.013216839171946049
+2022-05-25,5:0,Bitcoin is exploding...    #Bitcoin,bitcoin is exploding bitcoin,0.029740797355771065,0.9282644391059875,0.041994791477918625
+2022-05-25,5:0,"🚀 🚀 🚀 $1,992,572 BTCUSDT LONGED @$30,101.10 on #Binance (4:47:13 UTC) #BTC #cryptocurrency",1992572 btcusdt longed 3010110 on binance utc btc cryptocurrency,0.04136417433619499,0.9302052855491638,0.028430543839931488
+2022-05-25,5:0,"#BRIDGESWAP #CRYPTO #BTC #BINANCE
+
+The project uses very compentent marketing and price policy. i am confident the project will show itself well in the future.",bridgeswap crypto btc binance the project uses very compentent marketing and price policy i am confident the project will show itself well in the future,0.8965402841567993,0.09405531734228134,0.009404454380273819
+2022-05-25,5:0,@TomDKirkpatrick @Burning_Forest @IOHK_Charles Welcome to the #bitcoin space. Once you become a maxi. You’ll learn there’s only one ‘crypto’ to rule them all.,tomdkirkpatrick burningforest iohkcharles welcome to the bitcoin space once you become a maxi youll learn theres only one crypto to rule them all,0.03555142879486084,0.9204590320587158,0.04398949444293976
+2022-05-25,5:0,"@TheCryptoLark he means that you need an Institution to support, with #BTC the support what is it? that the whales behave well, and that they give confidence to the buyers and holders of #cryptocurrencies #altcoin",thecryptolark he means that you need an institution to support with btc the support what is it that the whales behave well and that they give confidence to the buyers and holders of cryptocurrencies altcoin,0.16416575014591217,0.8253798484802246,0.010454326868057251
+2022-05-25,5:0,"Good night people. ❤️‍🔥☺️
+We hope your day has been great! 🤭😉
+
+Tags 😘
+#nftart #Bitcoin #Etherum #cryptocurrency #lunacoin #SOL #SHIB",good night people we hope your day has been great tags nftart bitcoin etherum cryptocurrency lunacoin sol shib,0.3016732335090637,0.6875379681587219,0.010788802988827229
+2022-05-25,5:0,"@binance #Bitcoin  dominance is going up as the market heals itself,&amp; cleanses itself from a lot of the garbage in the space. 
+
+Eventually,the asset class will move to new highs, but #btc  needs to take control for a while
+
+Bravo @Chrismoyzee  Made us proud him TA have been very helpful",binance bitcoin dominance is going up as the market heals itself cleanses itself from a lot of the garbage in the space eventuallythe asset class will move to new highs but btc needs to take control for a while bravo chrismoyzee made us proud him ta have been very helpful,0.7834804058074951,0.20531302690505981,0.011206522583961487
+2022-05-25,5:0,"@intocryptoverse #Bitcoin  dominance is going up as the market heals itself,&amp; cleanses itself from a lot of the garbage in the space. 
+
+Eventually,the asset class will move to new highs, but #btc  needs to take control for a while
+
+Bravo @Chrismoyzee  Made us proud him TA have been very helpful",intocryptoverse bitcoin dominance is going up as the market heals itself cleanses itself from a lot of the garbage in the space eventuallythe asset class will move to new highs but btc needs to take control for a while bravo chrismoyzee made us proud him ta have been very helpful,0.8333714008331299,0.15443456172943115,0.012194103561341763
+2022-05-25,5:0,"@superdavo0001 @ray34119021 @CNBC #Bitcoin's an IQ thing and calling it a ponzi is something someone who didn't see its brilliance, and also a bitter shirt tucker, would say...😂🤣😅",superdavo0001 ray34119021 cnbc bitcoin an iq thing and calling it a ponzi is something someone who did not see its brilliance and also a bitter shirt tucker would say,0.03462790325284004,0.5311347842216492,0.4342372715473175
+2022-05-25,5:0,"Good morning, may today be better than yesterday, may tomorrow be full of hope.#Bitcoin #ETH #Binance #Solana #AVAX #dogecoin #jasmy #APECOIN #FLOKI #shiba #chz #Holochain #Web3 #altcoin",good morning may today be better than yesterday may tomorrow be full of hopebitcoin eth binance solana avax dogecoin jasmy apecoin floki shiba chz holochain web3 altcoin,0.3887208104133606,0.5949946045875549,0.01628458872437477
+2022-05-25,5:0,"@coryklippsten I read Ray as balancing competing constituencies. 
+
+On the one hand, he gets #Bitcoin to an extent, but financial performance matters. So does regulatory.
+
+On the other hand, he wants his phone calls returned. That includes his pals not thinking he is  crazy.",coryklippsten i read ray as balancing competing constituencies on the one hand he gets bitcoin to an extent but financial performance matters so does regulatory on the other hand he wants his phone calls returned that includes his pals not thinking he is crazy,0.05801202729344368,0.9049353003501892,0.037052642554044724
+2022-05-25,5:0,"Nothing compares.. to you. 
+
+#Bitcoin $btc",nothing compares to you bitcoin btc,0.05310243368148804,0.9246661067008972,0.02223150245845318
+2022-05-25,5:0,Current #Bitcoin Price is $30088 #BTC #Crypto,current bitcoin price is 30088 btc crypto,0.021955931559205055,0.9517382979393005,0.02630579099059105
