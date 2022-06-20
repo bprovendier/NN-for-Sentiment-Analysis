@@ -1,0 +1,2088 @@
+,Date,Tweet Text,Retweet Count,Favorite Count,Username,User follower count,ID
+0,Mon Jun 20 04:00:10 +0000 2022,"#Bitcoin mempool fees summary in the 60 seconds
+Mean = 6200
+Median = 2166
+Max = 73947
+75th Quant = 4252
+N.Obs = 91
+Interval (fee/vb) = [0 , 48.0]
+Block height 741522",0,0,StatsMempool,26,1538733419341008899
+1,Mon Jun 20 04:00:09 +0000 2022,"#Bitcoin mempool Tx summary in the last 60 seconds
+Mean = 162.7246
+Median = 0.06436
+Max = 7600.85799
+75th Quant = 0.963
+N.Obs = 91.0
+Block height 741522",0,0,StatsMempool,26,1538733418195963904
+2,Mon Jun 20 04:00:09 +0000 2022,"📉📉📉SHORT📉📉📉
+
+💰#MKR
+💰Entry Price = 868.7
+💰2022-06-20T04:00:00Z
+💰Stop Loss =☎️LINK IN Profile
+$MKR #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538733415679541248
+3,Mon Jun 20 04:00:08 +0000 2022,"🪙 #Bitcoin (BTC) 20024.6$ (0.5798%)
+🪙 #Ethereum (ETH) 1081.71$ (0.8644%)
+🪙 #Tether (USDT) 0.99887$ (0.0078%)
+🪙 #USD Coin (USDC) 1.00040$ (0.0123%)
+🪙 #BNB (BNB) 209.047$ (0.7398%)
+🪙 #Binance USD (BUSD) 0.99980$ (0.0235%)
+🪙 #Cardano (ADA) 0.46987$ (0.4918%)",0,0,Crypt03ot,3,1538733414668390400
+4,Mon Jun 20 04:00:08 +0000 2022,"Jun 19, 2022 09:00PM #Bitcoin Price:
+USD 19640.51 | EUR 18692.51 | JPY 2629824.91",0,0,btcreports,237,1538733412856610818
+5,Mon Jun 20 04:00:06 +0000 2022,"#Bitcoin stats every hour
+----
+Block: 741522
+Hashrate: 206.23 EH/s
+Price last 24h: 19804.46$
+--
+Fast Fee: 4sat
+Slow Fee: 1sat
+--
+TX unconfirmed: 667
+--
+Diff: 30T
+Diff change in block 741888
+Next diff in 366 blocks",0,0,fixtheblock,384,1538733403670986752
+6,Mon Jun 20 04:00:03 +0000 2022,One Bitcoin now worth $19959.20@bitstamp. High $20783.480. Low $17930.700. Market Cap $380.662 Billion #bitcoin,0,0,BTCticker,4254,1538733392791056386
+7,Mon Jun 20 04:00:03 +0000 2022,One Bitcoin now worth $19964.704. Market Cap $380.767 Billion. Based on #coindesk BPI #bitcoin,0,0,BTCticker,4254,1538733392572850176
+8,Mon Jun 20 04:00:02 +0000 2022,"strategy: 5010HL1h atr20d: 2002.57
+
+20 Jun 2022 04:00:01 UTC
+🍏🇱 'Long' 13:00:01 JST
+ &gt;  19945.0  last_price $BTC/USD
+--- 19375.5  exit_trigger (ent: 20735.0)
+--- 17568.0  short_entry_trigger
+
+#BTC/USD perpetual contract on #BitMEX",0,0,cRe5520,237,1538733387367829507
+9,Mon Jun 20 04:00:02 +0000 2022,Current BTC Dominance: 43.4% #Bitcoin #Altcoin #Cryptocurrency,0,0,btcdominance,4258,1538733386726100992
+10,Mon Jun 20 04:00:02 +0000 2022,"The price of
+Spaghetti alla Carbonara
+is 55,035 Satoshis
+or 0.00055035 BTC
+
+1 BTC = 19,969.20 USD
+1 USD = 5,008 Sat
+on Sunday, 19 June 2022 11:00 PM CDT
+
+#bitcoin #CarbonaraIndex",0,0,CarbonaraIndex,68,1538733385706745857
+11,Mon Jun 20 04:00:01 +0000 2022,"NEED a #JOB?
+Sign up now https://t.co/o7lVlsCHXv
+FREE. NO MIDDLEMEN
+#Robotics #AIEthics #MachineLearning #AI #Python #DataScience #BigData #100DaysOfCode #Robots #fintech #insurtech #Bitcoin #cybersecurity #blockchain #coding #Cryptos #NFTGame #Jobs #Metaverse #Bitcoin #ETH #SOL https://t.co/Jb7IVlSS3O",1,0,JobPreference,1513,1538733384796540929
+12,Mon Jun 20 04:00:01 +0000 2022,"Bitcoin - BTC
+Price: $20,029.46
+Change in 1h: +0.6509041%
+Market cap: $382,001,166,590.87
+Ranking: 1
+#Bitcoin #BTC",0,0,topcryptostats,4616,1538733384163241984
+13,Mon Jun 20 04:00:01 +0000 2022,"It's time to build and accumulate the next 1-2years so we can celebrate and reap rewards the next bull run. Success is for everyone but not everyone is for success.
+#BTC #Crypto #NFT #Markets",0,0,DNightCity,5407,1538733384100290560
+14,Mon Jun 20 04:00:01 +0000 2022,"#BTC $20062  $BTC
+#ETH $1083.84  $Eth
+#BNB $209.51  $Bnb",0,0,Pricecrypt0,126,1538733383701889025
+15,Mon Jun 20 04:00:01 +0000 2022,"7047.68 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: 3M4A48f5TJ1pjnLRDAB3mb7Rr9CYfT5AgN       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: 3KypCAeGcXTRaQTJygFx2WYQpda32VdFzV       
+          Balance: 7047.63 BTC",0,0,BitomicWhales,50,1538733382678597632
+16,Mon Jun 20 04:00:01 +0000 2022,"7600.86 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: 3Qmw1Zh4xp6QGenSXuGfprAirV2aebAnHU       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: 393AgvUR8ESd7ydH5Uwg6QZ5yq3xj64Btt       
+          Balance: 7600.83 BTC",0,0,BitomicWhales,50,1538733382515019776
+17,Mon Jun 20 04:00:01 +0000 2022,"🥶Which #cryptocurrencies  are you optimistic about now?
+#Bitcoin #ETH #Crypto",0,0,DoctorJonesI,10,1538733381139177473
+18,Mon Jun 20 04:00:00 +0000 2022,"strategy: 6018OC4h atr20d: 2008.78
+
+20 Jun 2022 04:00:00 UTC
+📕🇸 'Short' 13:00:00 JST
+--- 30079.0  long_entry_trigger
+--- 21051.0  exit_trigger (ent: 29452.0)
+ &gt;  19960.7  mark_price $BTC/USD
+
+#BTC/USD inverse contract on #Bybit",0,0,cRe5520,237,1538733379016970240
+19,Mon Jun 20 04:00:00 +0000 2022,"#Bitcoin (#BTC) Price Update:
+    
+Price: $20,052
+Last Hour: +0.68%
+Last 24 Hrs: +9.27%
+Last 7 Days: -25.09%
+Last 30 Days: -31.46%
+Last 365 Days: -43.64%",0,0,cr_bitcoin,8,1538733377309876229
+20,Mon Jun 20 03:59:52 +0000 2022,"Between oil price reversal, stocks and bonds tanking, property on the precipice and superann’s de minimis results - the fed pause is right around the corner. #tech stocks and #Bitcoin best performer 2H of the year #cryptocurrency @LynAldenContact @rovercrc @nayibbukele @RaoulGMI",0,0,911Marxy,37,1538733345483661313
+21,Mon Jun 20 03:59:49 +0000 2022,"If people to stubborn to sell their crypto before hitting zero and losing  everything, thats on them. #Crypto #LUNA #HEX #BTC",0,0,Christi56868820,23,1538733332082569217
+22,Mon Jun 20 03:59:39 +0000 2022,@ImNotTheWolf Negative sir big exchanges loading up on #btc and others dumping on the market. I expect massive sell pressure and more liquidations incoming and another big keg down before we go sideways the long gradual reversal …. #spx has to nuke further and liquidity pools will dry up,0,0,chris_biollo,84,1538733290189778944
+23,Mon Jun 20 03:59:38 +0000 2022,"Goodnight Everyone!!🙏 Tomorrow is going to full of opportunities so get rested up for an awesome day ahead!!! -BBM💯
+
+#NFTs #NFT #nftart #btc #nftcommunity #solsea #NFTdrop #NFTGiveaways #solana #solananfts #cryptocurrency #eth #magiceden",0,0,BigBruddaNFT,383,1538733288436682752
+24,Mon Jun 20 03:59:38 +0000 2022,"The #Bitcoin bull market resumes when the bitcoiners are done infighting.
+
+I don't make the rules. Carry on.",0,0,The_SHAman256,1564,1538733285995532291
+25,Mon Jun 20 03:59:33 +0000 2022,Everybody looking for the next #Bitcoin when they don’t even realize you can’t recreate absolute scarcity 😭,0,0,CuredSausage,1429,1538733266051604480
+26,Mon Jun 20 03:59:33 +0000 2022,"@PeterSchiff #BTC= $11,600 , in the not so far future.",0,0,Drwisephool,95,1538733265321869312
+27,Mon Jun 20 03:59:28 +0000 2022,"@KaloriesFinance This is a very strong project..I hope this project will be realistic and interesting.I'm with you in this team. Thanks Team.
+
+@Emran
+@Mamun
+@Sultan
+
+#Bitcoin #Alpha #Rewards #NFT #NFTgame #Polygon #ETH #BTCs #BNB",0,0,AliAmja24622341,1,1538733243188527106
+28,Mon Jun 20 03:58:59 +0000 2022,@crypto_iso #Solana has huge amount of money and is also backed by alameda. Volume is also coming in sol so I think that it will bounce hard when #btc bounces.,0,0,Tnshqqq_,79,1538733123781148679
+29,Mon Jun 20 03:58:54 +0000 2022,"@DenhamRaptorsFc This is why #bitcoin and crypto tend to be considered different.
+
+Most people in #bitcoin are mission driven, preferring to educate regarding financial literacy.",0,0,realbedford,14248,1538733101295276037
+30,Mon Jun 20 03:58:52 +0000 2022,"@bollywood_life Fiat money is the basis of corruption, #Bitcoin    might not fix everything, but it’s a damn good start.    Separation of money and state
+
+If you aren’t following @IMMarcosMD you should be. There aren’t many who have a better understanding of value investing, great tweets so far.",0,0,paige010104,26,1538733093921619968
+31,Mon Jun 20 03:58:37 +0000 2022,"@LDNFootbalI @Telegraph Fiat money is the basis of corruption, #Bitcoin    might not fix everything, but it’s a damn good start.    Separation of money and state
+
+If you aren’t following @IMMarcosMD you should be. There aren’t many who have a better understanding of value investing, great tweets so far.",0,0,paige010104,26,1538733032361820161
+32,Mon Jun 20 03:58:37 +0000 2022,Republicans can’t agree with Democrats. How will world governments agree on a new global reserve currency. They won’t. #Bitcoin,0,0,PMonkeyBTC,608,1538733031036362754
+33,Mon Jun 20 03:58:34 +0000 2022,@RepPerlmutter I believe President Joe Biden will Decriminalize Marijuana on #juneteenth2022❤️❤️❤️❤️❤️❤️It's an auspicious day and could be a #historic day for all of us. #givethemHOPE #JoeBiden #SAFEBanking #SAFEBankingAct #HOPEAct $MSOS #Bitcoin #Cryptocrash #MSOGang God willing!📿🙏🤲,0,0,LinusCargill,40,1538733016784089089
+34,Mon Jun 20 03:58:32 +0000 2022,"A few days ago 20k #bitcoin    was scary, now 20k BTC feels good. Funny that 🤣",0,0,abhi18790,58,1538733008584589312
+35,Mon Jun 20 03:58:31 +0000 2022,"#Bitcoin Last Price $20018 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1082 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123425",0,0,LivePriceCrypto,2110,1538733003979071489
+36,Mon Jun 20 03:58:28 +0000 2022,Current #Bitcoin Price is $20024 #BTC #Crypto,0,0,IAmBitcoinBot,1527,1538732994512400384
+37,Mon Jun 20 03:58:19 +0000 2022,💸 Earn free #BTC and multiply your crypto with @betfury BOXes 📦 Enjoy the easy way to get cryptocurrency! Real rewards every 20 min 💥,0,0,allanqabad,11,1538732955375669248
+38,Mon Jun 20 03:58:17 +0000 2022,"Even if you bought #Bitcoin at 69k it was worth it, because this is about becoming free, getting out of a corrupt system entering one of an incorruptible nature.
+#FuckFiat #FuckYourShitcoin #FuckTheSistem #FuckEverithing  #BitcoinIsTheWay✊",0,0,Goenagank,153,1538732945598472192
+39,Mon Jun 20 03:58:12 +0000 2022,#btc  bear market bottom in?,0,0,SwenLink,29044,1538732924756971520
+40,Mon Jun 20 03:58:06 +0000 2022,"@ZoomTV Fiat money is the basis of corruption, #Bitcoin    might not fix everything, but it’s a damn good start.    Separation of money and state
+
+If you aren’t following @IMMarcosMD you should be. There aren’t many who have a better understanding of value investing, great tweets so far.",0,0,paige010104,26,1538732901684154368
+41,Mon Jun 20 03:58:04 +0000 2022,"@bitcoincrusader Inflated profits, in the UK 🇬🇧 Tesco reported the same! #ItsOVER buy #bitcoin",0,0,BitcoinBambo,760,1538732890875482112
+42,Mon Jun 20 03:58:01 +0000 2022,"4185.88 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: 3HNVLxysxA3ogBoxxXwhDiX2XiSuCWGXta       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: 3Mkee9GR11jZUKAFRCtv1XDzL6dmuecbqQ       
+          Balance: 4183.01 BTC",0,0,BitomicWhales,50,1538732879039037443
+43,Mon Jun 20 03:58:00 +0000 2022,"GOOD MORNING #CRYPTO family ☕️👀
+#Bitcoin",0,0,KCCryptoo,148,1538732874899267584
+44,Mon Jun 20 03:57:58 +0000 2022,"@WorldAndScience Fiat money is the basis of corruption, #Bitcoin    might not fix everything, but it’s a damn good start.    Separation of money and state
+
+If you aren’t following @IMMarcosMD you should be. There aren’t many who have a better understanding of value investing, great tweets so far.",0,0,paige010104,26,1538732865990676481
+45,Mon Jun 20 03:57:50 +0000 2022,"@ZoomTV Fiat money is the basis of corruption, #Bitcoin    might not fix everything, but it’s a damn good start.    Separation of money and state
+
+If you aren’t following @IMMarcosMD you should be. There aren’t many who have a better understanding of value investing, great tweets so far.",0,0,paige010104,26,1538732834764079105
+46,Mon Jun 20 03:57:43 +0000 2022,"Crypto investors fed up of millionaire crypto gurus, pumping markets and spreading fairy tales. Seeing #Bitcoin and #CryptoMarket paying the price for those scams.",0,0,Derrick92410178,13,1538732803919069185
+47,Mon Jun 20 03:57:39 +0000 2022,@PeterSchiff This guy is a crypto expert ! Sounds like you had some classes with @RichardHeartWin #btc to $11k lfg,0,0,willsilvasea,54,1538732789205413888
+48,Mon Jun 20 03:57:35 +0000 2022,Which coin should I buy amid the fall? #cryptocurrency #Crypto #CryptoMarket #CryptoNews #CryptoCommunity #BTC #ETH #crash #Cryptocrash,0,0,MrLuciferStar1,2,1538732772940034050
+49,Mon Jun 20 03:57:31 +0000 2022,"If you have never invested in CRYPTOCURRENCY, this would be a great opportunity to BUY #Bitcoin 
+Take as much advantage when there's an Economic crash.",0,0,MBUGUA65298786,8,1538732755378388992
+50,Mon Jun 20 03:57:30 +0000 2022,"#Bitcoin Last Price $20051 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.53%
+•MACD:
+ -MACD Line: -2995
+ -Signal Line: -2321
+
+#Ethereum Last Price $1084 #ETH
+•Variation: -3.96%
+•MACD:
+ -MACD Line: -256
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123424",0,2,LivePriceCrypto,2110,1538732749590343680
+51,Mon Jun 20 03:57:20 +0000 2022,"1 Bitcoin ( #BTC )
+Dollar: 20,002.00$ 
+
+1 Bitcoin Cash ( #BCH )
+Dollar: 1,19.39$ 
+
+1 Ethereum ( #ETH )
+Dollar: 1,088.26$ 
+
+1 Ripple ( #XRP )
+Dollar: 0.32119$ 
+
+Date: 20 Jun 2022 2:6
+
+#Bitcoin #Ethereum #cryptocurrency #crypto #altcoin #Blockchain #Ripple  #العملات_الرقمية",0,0,ANAIF_M,1,1538732706388922368
+52,Mon Jun 20 03:57:19 +0000 2022,"1 Bitcoin ( #BTC )
+Dollar: 19,744.44$ 
+
+1 Bitcoin Cash ( #BCH )
+Dollar: 1,17.57$ 
+
+1 Ethereum ( #ETH )
+Dollar: 1,075.48$ 
+
+1 Ripple ( #XRP )
+Dollar: 0.31855$ 
+
+Date: 20 Jun 2022 1:56
+
+#Bitcoin #Ethereum #cryptocurrency #crypto #altcoin #Blockchain #Ripple  #العملات_الرقمية",0,0,ANAIF_M,1,1538732704367267840
+53,Mon Jun 20 03:57:12 +0000 2022,this is #Bitcoin,0,0,busattensonra,14,1538732674285719552
+54,Mon Jun 20 03:57:10 +0000 2022,"@nvk Whales moving their 100k #BTC destroys all models 😂
+
+If I were a whale I would do it for fun do see a dent in their stupid chart 😂🤣",0,0,bitcoin_eagle,1228,1538732667872624640
+55,Mon Jun 20 03:57:01 +0000 2022,"3154.44 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: 31wySJgJtLAchHbw6twgN4k18CrK7SmNVk       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: bc1q5d8lpwp3nk3t7eu0sptxeznmek85dmpkswdmq3       
+          Balance: 3153.78 BTC",0,0,BitomicWhales,50,1538732627477291008
+56,Mon Jun 20 03:57:01 +0000 2022,"2954.76 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: bc1qfq7aqjlghcprj8nw8ceexk37sqaqsyrc84nx7d       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: 3LU2jk4PehPFRndTcMArXRCeSbQmHM6utG       
+          Balance: 2954.76 BTC",0,0,BitomicWhales,50,1538732627431145475
+57,Mon Jun 20 03:56:45 +0000 2022,@PeterSchiff This big whale heavily manipulated #Bitcoin price,0,0,Benlux11,49,1538732559290359808
+58,Mon Jun 20 03:56:43 +0000 2022,"@gamdom This is project excellent  
+ @PhoeniX_Storms
+ @BblittleR
+ #BTC #Crypto #Contest #Casino #prize #Competition #ETH",0,0,ShinobuOne,53,1538732553745870848
+59,Mon Jun 20 03:56:42 +0000 2022,"IMPORTANT announcement:
+
+Insider fucking is confirmed.
+
+We will give 3666 holders of BAYC, Azuki, Illpoopit, Troll, and Goblin NFTs a free mint. 
+
+#NFTs #NFTGiveaway #BoredApeYC #Azuki #FreeMint #Shitbeast #Goblintownwtf #trolltownwtf #Moonbird #Bitcoin #Ethereum #fkbearmarket",0,2,Fkbearmarketnft,8258,1538732546996899840
+60,Mon Jun 20 03:56:39 +0000 2022,Helped multiple family members move all their #bitcoin in to cold storage this weekend. Thanks @Blockstream for your products &amp; #btc for the chance to custody your wealth out of the reach of globalists &amp; rent seekers 💁‍♂️🙏🏻,0,0,brandon_gentile,549,1538732535248822273
+61,Mon Jun 20 03:56:36 +0000 2022,"@bollywood_life Fiat money is the basis of corruption, #Bitcoin    might not fix everything, but it’s a damn good start.    Separation of money and state
+
+If you aren’t following @IMMarcosMD you should be. There aren’t many who have a better understanding of value investing, great tweets so far.",0,0,paige010104,26,1538732524029063169
+62,Mon Jun 20 03:56:31 +0000 2022,"@samakaltw Fiat money is the basis of corruption, #Bitcoin    might not fix everything, but it’s a damn good start.    Separation of money and state
+
+If you aren’t following @IMMarcosMD you should be. There aren’t many who have a better understanding of value investing, great tweets so far.",0,0,paige010104,26,1538732503573340160
+63,Mon Jun 20 03:56:23 +0000 2022,"And I hodl #Bitcoin , while the @POTUS45 doesn't hold it yet.
+
+So, honestly it makes me much smarter than the President of the United States....",0,0,Suveett_Crypto,841,1538732468601516032
+64,Mon Jun 20 03:56:22 +0000 2022,"Folks now calling for a #commodity #supercycle.
+We don't need a commodity supercycle, we have been in a secular trend of ""Information"" supercycle and shall continue to be in one. 
+#Bitcoin and #Cryptos only accelerate it, the information exchange of money and utility",0,0,Suveett_Crypto,841,1538732466437226496
+65,Mon Jun 20 03:56:20 +0000 2022,"The BIS and Fed are moving forward with CBDCs
+
+Many people will learn the hard way #Bitcoin was never about fiat gains",0,0,SanDiegoPleb,528,1538732454650859520
+66,Mon Jun 20 03:56:15 +0000 2022,@NEEDcreations 70% of Salvadorans don’t approve the govt using tax payer money to buy #Bitcoin the majority of the population got their free $30 and never used the #ChivoWallet,0,0,maximinawho,235,1538732434371616769
+67,Mon Jun 20 03:56:08 +0000 2022,weekly close  20600 #BTC,0,0,rlfam1st,30,1538732406047318017
+68,Mon Jun 20 03:56:01 +0000 2022,"2605.23 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: bc1qavsy6nal85heaq02q8m9qhhctpzl3hvskes4s2       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: 34ST5DgnFSY7sSQuR2TcpfKAcYcxAZwpQm       
+          Balance: 2605.22 BTC",0,0,BitomicWhales,50,1538732376209117184
+69,Mon Jun 20 03:56:01 +0000 2022,"2419.50 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: 3FDaeNHiy8XC6i4pEPo4o5o3s4yhvPzWMA       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: 3FLxiaXJjaokwboMnhcQqH1ev4kqaandxS       
+          Balance: 2419.25 BTC",0,0,BitomicWhales,50,1538732375907106822
+70,Mon Jun 20 03:55:52 +0000 2022,"If your position get liquidated in exchange company and same exchange company buying #crypto with your liquidated money, what do you name it? #binance #bitcoin #luna #ada #avax #doge",0,0,electro_sueh,216,1538732340616302593
+71,Mon Jun 20 03:55:45 +0000 2022,"@EleanorTerrett Luckily.  It’s meh. 😎 No one really cares that’s in serious positions.  We just buy the carnage ;) 
+
+$btc $eth $ada $hbar $xrp #xrp #bitcoin #eth #ada #hbar",0,0,Freki_Crypto_OG,6675,1538732307787304960
+72,Mon Jun 20 03:55:31 +0000 2022,"Are you still hodling your #Bitcoin anon?
+If yes, which color will be your lambo in 2025?
+
+#BTC #Crypto",0,0,TheMoonChris,196,1538732252556931072
+73,Mon Jun 20 03:55:30 +0000 2022,"#Bitcoin Last Price $20012 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1080 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123422",0,0,LivePriceCrypto,2110,1538732245564932097
+74,Mon Jun 20 03:55:22 +0000 2022,"#BTC Price: $20052
+#ETH Price: $1082
+#LTC Price: $53
+
+Next update in 10 minutes
+Last updated: 20:55:22.06",0,0,coincapitan,2312,1538732214564835328
+75,Mon Jun 20 03:55:05 +0000 2022,Another day of me waking up to see #Bitcoin below 20K! 🤯,0,0,yashfintact,31,1538732142272073728
+76,Mon Jun 20 03:55:00 +0000 2022,"Can you please help me.
+
+32yyeXCAqrxbKMvSDP9ymib64wJfB8GUbe
+
+#bitcoin
+#cryptocurrency
+#crypto
+#help
+#giveme",0,0,yui5for,1089,1538732119458861057
+77,Mon Jun 20 03:54:54 +0000 2022,"#WEB3 is changing the world.
+So far...
+
+- Finance
+- Metaverse
+- Gaming
+- Digital goods
+- Art
+- Governance
+- Education
+
+What did I missing?
+
+#Bitcoin",2,2,PG18588201,116,1538732094226333698
+78,Mon Jun 20 03:54:49 +0000 2022,"Will #BTC hit $8,888
+
+ #HEX $HEX #PulseChain $PLS #PulseX $PLSx #MAXI #Pulsedoge #Hedron #memes #cryptocurrency #crypto #CryptocurrencyNews #Hexicans",0,0,djpaulywoodWin,948,1538732076677177347
+79,Mon Jun 20 03:54:49 +0000 2022,@WBrettWilson Celebrity billionaires need to stop turning crypto into ponzis #bitcoin #dogecoin or they are the same as dirty politicians endlessly wasting borrowing and printing,0,0,AdamChrisHunter,11,1538732076178063360
+80,Mon Jun 20 03:54:48 +0000 2022,"#Bitcoin 
+Class of 21 underwater Maxi
+Stalled out at &lt;200
+I want to follow Maxis",0,0,HCBF_13,195,1538732071320883200
+81,Mon Jun 20 03:54:38 +0000 2022,"@DiMartinoBooth It’s the ‘store of value’ thing, right Elon? BTW how $TSLA #bitcoin value storing? 🤪🤪🤪",0,0,smtraderCA,1844,1538732030069862401
+82,Mon Jun 20 03:54:35 +0000 2022,"@CryptoWendyO I’m a spot whale 🦈 shark. I let leverage whales move it low &amp; play-splash about
+I’ll take these prices and then some ;) 
+I love fear and 🩸 
+
+#btc #eth #xrp #ada #hbar #algo #sgb #flr $btc $eth $xrp $ada $hbar",0,0,Freki_Crypto_OG,6675,1538732016950161408
+83,Mon Jun 20 03:54:29 +0000 2022,"#Bitcoin Last Price $20026 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.64%
+•MACD:
+ -MACD Line: -2997
+ -Signal Line: -2321
+
+#Ethereum Last Price $1081 #ETH
+•Variation: -4.21%
+•MACD:
+ -MACD Line: -256
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123421",0,1,LivePriceCrypto,2110,1538731991281147904
+84,Mon Jun 20 03:54:27 +0000 2022,Good Morning Lets move to 22K #btc,0,0,theetoss,182,1538731980660977666
+85,Mon Jun 20 03:54:15 +0000 2022,"@maxkeiser That sub $70,000 #Bitcoin was a punishment from Devil. If you missed it, you didn’t deserve a beating.",0,0,MikeGil61338704,167,1538731934066479105
+86,Mon Jun 20 03:54:09 +0000 2022,IF ANY OF MY FOLLOWERS NEED INVESTING FRIENDS PLEASE LMK SO I CAN ADD YOY TO MY DISCORD ITS NO BS JUST PEOPLE TO TALK ABOUT #nft #crypto #stocks AND MORE #Bitcoin #nft #NFTCommunity #eth #BoredApeYachtClub #ALTSEASON,0,2,OFGBENELLI,212,1538731908649066496
+87,Mon Jun 20 03:53:50 +0000 2022,@Mariabit12 #bitcoin for freedom🙏,0,0,ismailugurluuu,554,1538731826314878976
+88,Mon Jun 20 03:53:45 +0000 2022,More #bitcoin #sats to the cold storage in which I've lost the keys to.,0,0,mrwagmibtc,217,1538731808203866114
+89,Mon Jun 20 03:53:35 +0000 2022,"@The_Real_Fly lol @binance  gonna get shorted quick af 
+#BTC  #Banking 
+#rekt",0,0,don_Aleksander,124,1538731765044588544
+90,Mon Jun 20 03:53:28 +0000 2022,Current #Bitcoin Price is $20068 #BTC #Crypto,0,0,IAmBitcoinBot,1527,1538731734321115137
+91,Mon Jun 20 03:53:20 +0000 2022,"Coinbase has $6 billion of cash on hand. Don’t worry, they’re not going bankrupt anytime soon. 
+#Bitcoin",0,0,MrSatsurday,87,1538731700351602691
+92,Mon Jun 20 03:53:10 +0000 2022,"Top 5 #crypto prices with 24h change:
+
+#BTC #ETH #BNB #ADA #XRP 
+
+🟢 $BTC $19994.97 (8.78%)
+🟢 $ETH $1080.05 (12.64%)
+🟢 $BNB $209.0 (8.23%)
+🟢 $ADA $0.4699 (6.41%)
+🟢 $XRP $0.3181 (5.47%)
+
+Do you #hodl any of these coins?",0,0,crypto_whispers,4106,1538731660992208896
+93,Mon Jun 20 03:53:01 +0000 2022,"2179.82 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: bc1qrdrcffrhfrmz2hw4n45hd5gznj4hnmh83q6q3v       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: 3DsBncjmnVD4YFPRPJVdMyV69jniMYU49v       
+          Balance: 2179.82 BTC",0,0,BitomicWhales,50,1538731620798275587
+94,Mon Jun 20 03:52:57 +0000 2022,Crypto is now too big to fail... #Bitcoin #Ethereum,0,0,crypt0rial,9,1538731605287530496
+95,Mon Jun 20 03:52:48 +0000 2022,"$BTC PRICE : $19982
+ Change 24h :-2.77% 📉#bitcoin #BTC",0,0,btc_price_,21,1538731566368575495
+96,Mon Jun 20 03:52:43 +0000 2022,@FelipeTadewald Por isso use #bitcoin,0,0,gui_varella85,74,1538731547590787072
+97,Mon Jun 20 03:52:42 +0000 2022,"✨Inverted HS on a downtrend usually means end of trend...FYI
+
+#CryptoMarket #Crypto #BTC #Bitcoin #Altcoins",0,0,BigSwangNBang1,89,1538731542062804997
+98,Mon Jun 20 03:52:40 +0000 2022,Alert: #Bitcoin  Falling trendline break - 3 point 15M 20052 Jun 20 2022  4:55AM,0,0,Crypto___Trades,468,1538731535305691142
+99,Mon Jun 20 03:52:38 +0000 2022,"In the next #Bitcoin  Bull market #BabyDogeCoin holders will become a Billionaire. Do you Agree??
+
+Yes           Yes            Yes
+👇            👇               👇",1,6,RobertL45093624,984,1538731527169003520
+100,Mon Jun 20 03:52:37 +0000 2022,"They have great sense of responsibility and they make every step of the project with intelligence. very good project.
+#SeasonalTokens #CryptoMining #CyclicalInvesting #BTC",0,0,MdShirazul47,3372,1538731519812186117
+101,Mon Jun 20 03:52:36 +0000 2022,btc have  looking good today #btc,0,0,KhleeReese,0,1538731515768872960
+102,Mon Jun 20 03:52:29 +0000 2022,"#Bitcoin Last Price $20033 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1082 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123419",0,1,LivePriceCrypto,2110,1538731487679356929
+103,Mon Jun 20 03:52:21 +0000 2022,#Bitcoin is Freedom,0,1,XCouncillor,4439,1538731454678589440
+104,Mon Jun 20 03:52:19 +0000 2022,"This project is made by professionals and has a huge strong team and really interesting community. This project must be supported, in the future it will reach very high heights.
+#SeasonalTokens #CryptoMining #CyclicalInvesting #BTC",0,0,MdShirazul47,3372,1538731446147612678
+105,Mon Jun 20 03:52:17 +0000 2022,"eu indico 
+pra quem gosta de cassino ou melhor ainda, staking
+rendimentos reais.
+
+💸 Earn free #BTC and multiply your crypto with @betfury BOXes 📦 Enjoy the easy way to get cryptocurrency! Real rewards every 20 min 💥",0,0,leandru_cesar,50,1538731437830152194
+106,Mon Jun 20 03:52:10 +0000 2022,"@Seasonal_Tokens The project is trustworthy after reading the documents and website. The team is excellent, this documentation too. As for the idea itself, it is relevant in modern 
+#SeasonalTokens #CryptoMining #cyclicallnvesting #BTC",0,1,Mariya7878,5389,1538731408557871104
+107,Mon Jun 20 03:52:01 +0000 2022,"1869.29 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: bc1qkh2rgnf26z45lguv7hqh2mzwxwx44p902tylt0       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: bc1qfns2e3063cvgkemv3e693jenkf33m67pp4qmwm       
+          Balance: 1869.27 BTC",0,0,BitomicWhales,50,1538731369098096640
+108,Mon Jun 20 03:52:01 +0000 2022,"1635.43 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: 3PcW4nP869s5guXiqTEMRP3w8xQ2G9w1RQ       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: bc1qgxy90drqsa780mfsj5z4hv96hu4ce0s47v3sjj       
+          Balance: 1635.38 BTC",0,0,BitomicWhales,50,1538731369098002432
+109,Mon Jun 20 03:52:01 +0000 2022,"1839.35 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: bc1qygymxjzsnezh96m89sjy7249pc863eaz6q0ap8       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: bc1qt27yscs5mjhh0sun5p8qswvzfdnx6rmjvrex3t       
+          Balance: 1839.35 BTC",0,0,BitomicWhales,50,1538731369056149504
+110,Mon Jun 20 03:51:58 +0000 2022,"@Seasonal_Tokens 
+I believe it is capable of achieving great success very quickly. This project attracts investors. The truth is that this project is indeed a great opportunity to achieve success 
+#SeasonalTokens #CryptoMining #cyclicallnvesting #BTC",0,1,Mariya7878,5389,1538731358981222400
+111,Mon Jun 20 03:51:58 +0000 2022,"This is undoubtedly the most excellent project on the market from the existing ones. I tell everyone about You and friends it is very interesting to learn more about the project! 
+#SeasonalTokens #CryptoMining #CyclicalInvesting #BTC",0,0,MdShirazul47,3372,1538731358616690688
+112,Mon Jun 20 03:51:55 +0000 2022,@CryptoFinally Keep being you! The #btc world wouldn’t be the same without you!,0,0,CryptoCaptain_,2815,1538731343714058243
+113,Mon Jun 20 03:51:51 +0000 2022,"What a nasty turn of events, too many ppl are FOMOing for literally now reason #SNX #SNXBTC 
+
+#区块链 #比特币 #币安 #Bitcoin #cryptocurrency
+To Subscribe to our PREMIUM SIGNALS channel, PM ME!",0,2,NatalDormer,5979,1538731327897456640
+114,Mon Jun 20 03:51:47 +0000 2022,"@Seasonal_Tokens 
+This project has a huge potential for development, the team that works on this company is technically clever people.
+#SeasonalTokens #CryptoMining #cyclicallnvesting #BTC",0,1,Mariya7878,5389,1538731311317151746
+115,Mon Jun 20 03:51:36 +0000 2022,"@Seasonal_Tokens 
+That is good and amazing project, crpytocurrency global is powerfull project.I proud of your project,i hope this project will be more developed  and better.
+#SeasonalTokens #CryptoMining #cyclicallnvesting #BTC",0,1,Mariya7878,5389,1538731265846697984
+116,Mon Jun 20 03:51:34 +0000 2022,"Very good and powerful project that you cannot miss and which develops with great speed. Join this project. 
+#SeasonalTokens #CryptoMining #CyclicalInvesting #BTC",0,0,MdShirazul47,3372,1538731257223593984
+117,Mon Jun 20 03:51:29 +0000 2022,"#Bitcoin Last Price $20083 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.37%
+•MACD:
+ -MACD Line: -2992
+ -Signal Line: -2320
+
+#Ethereum Last Price $1083 #ETH
+•Variation: -4.05%
+•MACD:
+ -MACD Line: -256
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123418",0,2,LivePriceCrypto,2110,1538731235731816448
+118,Mon Jun 20 03:51:06 +0000 2022,Taking a break from #crypto and #bitcoin so I can listen to #music and get down to business.,0,2,cwtony89,172,1538731139849850880
+119,Mon Jun 20 03:51:01 +0000 2022,"@mattkratter really need you to do an analysis on #LiteCoin and why it can or can’t be a legitimate alternative storage of value like #bitcoin. Most cite the lack of hash power, and thus, security is too weak…",0,1,AtlantaOnSmash,120,1538731118404435968
+120,Mon Jun 20 03:51:01 +0000 2022,"1164.70 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: bc1qt6nzl37tfvxl5lw69zesy35jpc9x0chs2k95dj       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: bc1q9wdgjtw8z8stmwkmv947lkrhuh9cuu4c0pz4uw       
+          Balance: 1164.65 BTC",0,0,BitomicWhales,50,1538731117297246208
+121,Mon Jun 20 03:50:54 +0000 2022,@steve_hanke @petrogustavo might possibly go for Bitcoin #Bitcoin #btc,0,1,LuisTimana12,191,1538731089727868931
+122,Mon Jun 20 03:50:35 +0000 2022,"@BusinessFamous 59, doesn’t own #Bitcoin",0,2,dissectmarkets,2001,1538731009239179264
+123,Mon Jun 20 03:50:26 +0000 2022,#BTC is now at $20069.19,0,0,getbitcoinprice,256,1538730972493094912
+124,Mon Jun 20 03:50:16 +0000 2022,"Don’t worry about stack sats in price! 
+
+Is it worth waiting for it to raise? 
+
+Still expecting FOMO that make to start move your fingertips?
+
+Sat stacking in the dark helps you you mentally on ""period of dips""
+
+#Bitcoin #BTC",0,1,skyhighyong,148,1538730930868989952
+125,Mon Jun 20 03:50:11 +0000 2022,"it says #bitcoin closed its weekly at 20.5
+
+the deal was not closing below 19.5 20.
+
+sell nothing until american session, im headed for some outdoor activity instead of destiny 2 today",0,1,230aaaa0,320,1538730909339369476
+126,Mon Jun 20 03:49:51 +0000 2022,"@ashwsbreal It’s a falling knife , I’d wait to buy in #Bitcoin",0,1,Splitty_81,180,1538730823993671681
+127,Mon Jun 20 03:49:43 +0000 2022,#bnb may flip #btc and #ltc will be in top 5,0,0,cryptopolis12,16,1538730792871874560
+128,Mon Jun 20 03:49:34 +0000 2022,"1 $HEX = 3.40¢
+1 #TShare = $774 #USDC
+1 #TShare = ⬣22,803 #HEX 
+
+#TeamWin #pHex #PLS #Pulsechain #Bitcoin  #Ethereum #BTC  #Eth $BTC $ETH #passiveincome #defi",0,0,HexPrice,1243,1538730755362131969
+129,Mon Jun 20 03:49:28 +0000 2022,"#Bitcoin Last Price $20098 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1084 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123416",0,1,LivePriceCrypto,2110,1538730729093341184
+130,Mon Jun 20 03:49:25 +0000 2022,Dreamt of seeing #BTC dump to $1K-3K 😂💰,0,0,Jazz_callz,130,1538730714895556610
+131,Mon Jun 20 03:49:15 +0000 2022,"@edthetechie Try chemical warfare • poisoning • by air? By feed? 
+
+Its terrorism by those that say, 'we're from the government &amp; we are here to help'.
+
+#USA #FoodShortages #America #Canada #TheGreatReset #WEF #BillGates #WarrenBuffet #BTC #ETH #XRP #BankersWars #COVID19 #Death",0,0,HighNoon12000,102,1538730675272134656
+132,Mon Jun 20 03:49:13 +0000 2022,"the whales are really taking a dump on Tether and we are running out of diapers. We are going to need a bigger toilet.
+#BTC #SOLUSDT",0,0,Chantria0205,32,1538730664643727360
+133,Mon Jun 20 03:49:08 +0000 2022,"#Bitcoin mempool fees summary in the 60 seconds
+Mean = 4246
+Median = 1317
+Max = 57539
+75th Quant = 3784
+N.Obs = 80
+Interval (fee/vb) = [0 , 55.4]
+Block height 741522",0,1,StatsMempool,26,1538730644653719553
+134,Mon Jun 20 03:49:08 +0000 2022,"#Bitcoin mempool Tx summary in the last 60 seconds
+Mean = 48.4309
+Median = 0.04734
+Max = 928.0933
+75th Quant = 1.07549
+N.Obs = 80.0
+Block height 741522",0,1,StatsMempool,26,1538730643391234048
+135,Mon Jun 20 03:49:07 +0000 2022,"Another 3.5 M sats added to my #btc stash. Cost averaging down on the weekly. #Bitcoin is doing exactly the same thing now at 20,000 as it was at 69,000",0,2,Faxing__Berlin,53,1538730639822061568
+136,Mon Jun 20 03:49:07 +0000 2022,"I don’t own #Bitcoin I don’t know anything about crypto, only that I’ve been holding #XRP for about 6 years. But I do know how crazy volatile these runs up or down can be. If history is any indicator, the turn around should be wild. Again, im smooth brained to this crypto thing",0,1,barberROC007,197,1538730639494553600
+137,Mon Jun 20 03:48:56 +0000 2022,are we acting like #BTC wasn't at $69K ?,0,0,PadrinoSurfer,22,1538730593663348736
+138,Mon Jun 20 03:48:53 +0000 2022,@nikichain @binance @cz_binance They might be the reason for #BTC rise upto 20k🚀🚀...,0,0,Servi_bro,2,1538730579490811904
+139,Mon Jun 20 03:48:48 +0000 2022,"The thing w #Bitcoin is its price not suppressed like gold by the $ people. Many gold &amp; BTC people stick together bc the enemy is the central banker &amp; its minions. Control is the feature of the tyrant govt, eg Trudeau seizing bank accounts. 
+@MaximeBernier 
+@PierrePoilievre 🍵",0,1,ButchBaydala,2112,1538730559874027520
+140,Mon Jun 20 03:48:33 +0000 2022,"I DON'T do forex or bitcoin. 
+#Forex #forextrading #Bitcoin #binaryoptions #cryptocurrency",0,0,Ribi_Madubanya,936,1538730495927885825
+141,Mon Jun 20 03:48:28 +0000 2022,"#Bitcoin Last Price $20088 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.34%
+•MACD:
+ -MACD Line: -2991
+ -Signal Line: -2320
+
+#Ethereum Last Price $1084 #ETH
+•Variation: -3.99%
+•MACD:
+ -MACD Line: -256
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123415",0,2,LivePriceCrypto,2110,1538730477552652288
+142,Mon Jun 20 03:48:27 +0000 2022,Current #Bitcoin Price is $20055 #BTC #Crypto,0,1,IAmBitcoinBot,1527,1538730472435376128
+143,Mon Jun 20 03:48:26 +0000 2022,Day 4 of a broke college student asking @stevewilldoit for a Bitcoin #SteveWillDoIt #Bitcoin   #Tesla #Stake @stake @happydad @elonmusk @BobMenery @KyleForgeard,0,0,Matt_NFT_,5,1538730468044066816
+144,Mon Jun 20 03:48:24 +0000 2022,You will soon see that #Bitcoin will pump and the first statement after this event will be @saylor 's tweet about the amount of Bitcoin purchases in depth.,0,7,Omidxcii,89,1538730461450711040
+145,Mon Jun 20 03:48:21 +0000 2022,"The best thing that happens to us is when a great company gets into temporary trouble. We want to buy them when they’re on the operating table.”
+Warren buffet #bitcoin",0,1,DWOLFBTC,515,1538730445965099010
+146,Mon Jun 20 03:48:16 +0000 2022,@CooliganFields Thats right... ! #Bitcoin,0,2,Davidco18032097,380,1538730424834265088
+147,Mon Jun 20 03:48:10 +0000 2022,We live in a time where little kids can draw NFT collections and become millionaires #cryptonews #banks #forex #bitcoin #forex #cbdc,0,0,1goonrich8,30,1538730400717086721
+148,Mon Jun 20 03:48:05 +0000 2022,@spectatorindex #Bitcoin is Covid coin; Now it is MonkeyCoin time 🐒🐒,0,1,Aceh,30566,1538730380978974720
+149,Mon Jun 20 03:48:00 +0000 2022,"#BITCOIN #BTC impulse bar 20057.1 - 20176.35
+
+$BTC Bar close 20062.41
+
+#Crypto short term volatility detection",0,1,FindCoinAction,561,1538730358975258624
+150,Mon Jun 20 03:47:35 +0000 2022,@PeterSchiff Even if #Bitcoin goes 1M you are still the type of guy to criticize it. Guess what. Nobody gives a shi,0,2,nikyabo,341,1538730252868136960
+151,Mon Jun 20 03:47:33 +0000 2022,"The Ethereum Merge is coming this summer. DeFi 2.0 is just getting started.
+#BTC #ETHUSDT",0,0,Clementine0612,34,1538730245372620801
+152,Mon Jun 20 03:47:25 +0000 2022,"#Shitcoin &amp; #Craptocurrencies Crash: What's behind the sudden apparent resurgence of #Bitcoin &amp; other #craptocurrencies? Primarily it's quite clearly a #PumpAndDump operation going on, taking in all the remaining #dumbmoney from suckers falling for 24/7 #buythedip propaganda.",0,0,IWPCHI,1612,1538730213798027264
+153,Mon Jun 20 03:47:23 +0000 2022,"Just remember folks - the bottom still isn’t in yet 😎
+
+#btc  #ETH",0,0,iammrFoMo,283,1538730202742018048
+154,Mon Jun 20 03:47:17 +0000 2022,@Iccanui @cz_binance @WatcherGuru Have you heard of #Bitcoin ?,0,1,UpAndToTheLight,98,1538730180344152064
+155,Mon Jun 20 03:47:13 +0000 2022,You know why they are after #Bitcoin?  Because it works. And it makes them really mad.,1,6,thecryptob0t,44780,1538730163495751681
+156,Mon Jun 20 03:47:12 +0000 2022,"$AMC
+
+futures look good for a Sunday night
+
+#crypto bouncing the safety region today is a + signal 
+
+#BTC holding 20K is excellent; there will still be margin callls
+
+looks just as it should #bullish #stockmarket
+
+#AMCARMY",0,0,Unbearabull2,1183,1538730159326388224
+157,Mon Jun 20 03:47:10 +0000 2022,@BTC_Archive 90% of #BTC market..,0,0,Servi_bro,2,1538730150468018177
+158,Mon Jun 20 03:47:10 +0000 2022,"Follw me, I will follow you back.😍😍
+#followmeback #followback #airdrop #bounties #bounty #Blockchain #crypto #BTC #follow #binance #Following #Bounty #airdrop",0,1,sk062062,130,1538730147796242433
+159,Mon Jun 20 03:47:05 +0000 2022,"#Bitcoin 📈 
+
+▓▓▓░░░░░░░░░░░░ 21%
+
+price:$20144.81      eth/btc: 0.05",0,0,alert_shark,1230,1538730130356543490
+160,Mon Jun 20 03:47:03 +0000 2022,"Which cryptocurrencies are you planning to focus on this week?
+
+#Bitcoin #Crypto #altcoin",0,2,HotcoinGlobal,105524,1538730120185266176
+161,Mon Jun 20 03:47:02 +0000 2022,“Greater fool theory” is literally just describing the concept of investing and taking profit. The only reason you invest in literally anything is that you believe eventually you can sell that thing to someone else willing to buy it higher than you did. Wtf. Leave #BTC ALONE.,0,0,astro_riot,44,1538730115454181376
+162,Mon Jun 20 03:47:01 +0000 2022,"The BEST definition of a Bear market: ' A unique opportunity to buy more ICP with less FIAT. 
+#BTC #ICPUSDT",0,0,KhleeReese,0,1538730111960510465
+163,Mon Jun 20 03:46:58 +0000 2022,"""Whether we’re talking about socks or stocks, I like buying quality merchandise when it is marked down.” Warren Buffet #bitcoin",0,1,DWOLFBTC,515,1538730100408995840
+164,Mon Jun 20 03:46:49 +0000 2022,"People Think This is The Dark Sides Of Crypto.. Unfortunately This is The South Pole of That Moon they once wanted to discover.....!☺️
+#ElonMusk  #cz_binance #Bitcoin",0,1,BansiWalaAnkur,2,1538730061729103872
+165,Mon Jun 20 03:46:41 +0000 2022,"@MMCrypto It’s. Fine. Stack and DCA #crypto 
+
+#btc #eth #xrp #ada #hbar",1,4,Freki_Crypto_OG,6675,1538730026769600513
+166,Mon Jun 20 03:46:28 +0000 2022,"#Bitcoin Last Price $20175 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1090 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123413",0,1,LivePriceCrypto,2110,1538729973506314240
+167,Mon Jun 20 03:46:19 +0000 2022,"#Bitcoin Price:
+1 Week Ago Was 30K &amp; Today 20K
+
+$ETH Price:
+1 Week Ago Was 1450 &amp; Today 1080
+
+$BNB Price:
+1 Week Ago Was 255  &amp; Today 208.
+
+$SOL Price:
+1 Week Ago Was 30 &amp; Today 32.5
+
+$LUNA Price:
+1 Week Ago Was 2.60 &amp; Today 2
+
+$TRX Price:
+1 Week Ago Was 0.075 &amp; Today 0.059",0,3,hspbtc,518,1538729936110120960
+168,Mon Jun 20 03:46:19 +0000 2022,no 🙅 more bearish. now going to ending soon bearish in coming days 👀🚀 #crypto #bearmarket #Bitcoin #Cryptos #crypto,0,1,MimrotVikram,138,1538729935661330432
+169,Mon Jun 20 03:46:18 +0000 2022,"@CoinCornerMolly I bought some more really cheap #bitcoin 
+
+I washed my house
+
+Took my gf out on a date this weekend",0,2,ChrisAlaimo6,2284,1538729932649648130
+170,Mon Jun 20 03:46:09 +0000 2022,"#ADA might be the dark horse next bullrun.
+
+#Crypto #Bitcoin",0,0,Yeriel814,15,1538729894321987586
+171,Mon Jun 20 03:46:02 +0000 2022,Let me hear y’all opinion please ? #crypto #nft #NFTCommunity #btc easiest way to build passive income? #APECOIN #passiveincome also how do y’all make your money ?? #legislatives2022 #market #trading #sol #SolanaNFT,1,4,OFGBENELLI,212,1538729865226117121
+172,Mon Jun 20 03:46:00 +0000 2022,"Let's go retail we can do this
+
+#BTC #Bitcoin #cryptocurrency 
+#Bullish",0,1,EarlyCrowCrypto,6610,1538729856237596672
+173,Mon Jun 20 03:45:50 +0000 2022,"Im not trying to spread fud… no one else nervous that micro strategies isn’t buying bitcoin right now?
+
+You would think big corporations that believe in #Bitcoin would buy at these prices… right?",0,11,crypto_is_good,8099,1538729811841101824
+174,Mon Jun 20 03:45:48 +0000 2022,🤝 Follow me on @betfury. Let's hunt for Bitcoins together! Get an exciting experience on #1 I-Gaming platform with #BTC staking payouts!💰.My Username: POTUS #betfurysuccess #bitcoin #staking,0,1,KreuzbergRonny,4,1538729807298678785
+175,Mon Jun 20 03:45:44 +0000 2022,"🌙 SIGNAL #POND #PONDUSDT
+
+▶ Buy At or Under 0.01049
+
+✅Target1= 0.01056
+
+✅Target2= 0.01071
+
+✅Target3= 0.01087
+
+⛔ Stop Loss= 0.01029
+
+⚠ Be careful though!
+
+We're feeling trendy today.
+
+#SPOT #bitcoin #crypto
+
+Join the party in VIP SIGNALS channel, PM ME!",0,2,AndrewGriUK,12722,1538729790559092737
+176,Mon Jun 20 03:45:28 +0000 2022,"#Bitcoin Last Price $20141 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.09%
+•MACD:
+ -MACD Line: -2985
+ -Signal Line: -2318
+
+#Ethereum Last Price $1088 #ETH
+•Variation: -3.59%
+•MACD:
+ -MACD Line: -256
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123412",0,2,LivePriceCrypto,2110,1538729721940299777
+177,Mon Jun 20 03:45:24 +0000 2022,"@BitcoinSapiens I’ve felt this way about #btc #vgx and every stock I’ve ever owned. 
+
+Guess what? The market decides if you’re right.",0,0,OakenshieldVGX,2801,1538729706488569858
+178,Mon Jun 20 03:45:19 +0000 2022,The same tards who are making fun of #Bitcoin right now are the same ones predicting the end of oil when it crashed last year.,0,1,DiogenesSquared,47,1538729685915340800
+179,Mon Jun 20 03:45:19 +0000 2022,"#BTC Price: $20134
+#ETH Price: $1085
+#LTC Price: $52
+
+Next update in 10 minutes
+Last updated: 20:45:18.09",0,0,coincapitan,2312,1538729682518032384
+180,Mon Jun 20 03:45:17 +0000 2022,"Bitcoin doesn't need PayPal. 
+PayPal needs Bitcoin.
+#BTC #ICPUSDT",0,1,BradfordColly,44,1538729673412444161
+181,Mon Jun 20 03:45:08 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#EOS
+💰Entry Price = 0.94
+💰2022-06-20T03:45:02Z
+💰Stop Loss =☎️LINK IN Profile
+$EOS #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538729637035003904
+182,Mon Jun 20 03:45:08 +0000 2022,"Mobile was Internet 2.0. It changed everything. Crypto is Internet 3.0.
+#BTC #EGLDUSDT",0,0,KhleeReese,0,1538729636028624897
+183,Mon Jun 20 03:45:05 +0000 2022,@rovercrc Crypto to the moon before 2025 #Ethereum #Bitcoin,0,0,CryptonixLLC,6,1538729626888986624
+184,Mon Jun 20 03:45:02 +0000 2022,"#Bitcoin $BTC 
+Price: $20,123.50
+
+Areas of Support
+MUST Hold Above: $17,909.92
+
+Trends
+Near: UP📈
+Short: DN📉
+Medium: DN📉
+Long: DN📉
+
+Levels of interest
+Short: $21,619.62
+Med: $37,021.52
+Long: $87,558.43",0,1,DCA_Cryptoz,14223,1538729612385067008
+185,Mon Jun 20 03:45:01 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#ATOM
+🛑Entry Price = 6.593
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:45:00Z
+#BTC #BITCOIN $ATOM",0,0,cryptosignal_sl,128,1538729608467697664
+186,Mon Jun 20 03:45:00 +0000 2022,"@FredLopezA @nayibbukele Thanks, Fredy! 🙌 We were a little disappointed since it looked like a great place to take the kids on a rainy Sunday in #ElSalvador. Anyway, we had lots of fun at Dreamland and got pupusas after for dinner. Life's good in #Bitcoin land 😎",0,1,moneydelics,40,1538729602369081344
+187,Mon Jun 20 03:44:59 +0000 2022,"Should be an interesting week…
+
+Stock market closed tomorrow which always makes for fun times in #BTC land.  
+
+Hopefully the bottom is in (for now) and we can have some fun :)",0,7,kale_abe,82068,1538729598871117824
+188,Mon Jun 20 03:44:43 +0000 2022,"@Gauss93507131 @BTCGandalf @MacroAlf I don’t trust anything but #Bitcoin.  I guess that’s a personal decision.  Bitcoin is the truth in this space and the longest, proven track record of chain stability.",0,0,Hodlsville,885,1538729532051668992
+189,Mon Jun 20 03:44:42 +0000 2022,I got starter position in #LunaCLassic now that Do Kwon is out of the picture &amp; I had a dream about it. I also got starter position on @VoltInuOfficial even though I wanted to wait a couple of days/weeks...If #Bitcoin drops to 10k to 15k range I'll load more of lunc &amp; volt ⚡️,0,4,Currency365,5347,1538729529363075072
+190,Mon Jun 20 03:44:40 +0000 2022,"Don’t buy these prices unless you see community + utility in the project. 
+#Bitcoin #shibainu 🐕",0,0,Wolf37666066,59,1538729519124606978
+191,Mon Jun 20 03:44:25 +0000 2022,"GM! So happy to be a part of the Goo Algorithm community. 
+
+ They're building the on-ramp to bring web3 investors into Web3. 
+
+ Oh, and they've raised $82m from the cast of Friends. 
+
+ To the moon ; ) #Bitcoin #BTC #Crypto #Web3",0,2,Web3LaunchBot,10,1538729459418660864
+192,Mon Jun 20 03:44:18 +0000 2022,Price of #Bitcoin in 1 yr?,0,1,fortonfinance,163,1538729428225777664
+193,Mon Jun 20 03:44:16 +0000 2022,"1 Direct and Compact.
+2 Discipline.
+3 Conviction.
+4 Win and be grateful.
+
+#trading #btc",0,0,xohdefi,1218,1538729420814434305
+194,Mon Jun 20 03:44:16 +0000 2022,I am pleased to participate in this platform and I advise everyone else. This company should become successful.#SeasonalTokens #CryptoMining #CyclicalInvesting #BTC,0,1,sadmanshad3,2393,1538729418889211904
+195,Mon Jun 20 03:44:04 +0000 2022,"In Canada people comparing NFTs with #Bitcoin . 😂 
+
+We are so early",0,1,khurramja,270,1538729370088374272
+196,Mon Jun 20 03:44:01 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#DOT
+🛑Entry Price = 7.301
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:44:00Z
+#BTC #BITCOIN $DOT",0,0,cryptosignal_sl,128,1538729355442012160
+197,Mon Jun 20 03:43:53 +0000 2022,"It has taken me long to get a sense of blockchain technologies. But here I am. Turn your attention to this immense ICO-project. You're welcome! 
+#SeasonalTokens #CryptoMining #CyclicalInvesting #BTC",0,1,sadmanshad3,2393,1538729323045105664
+198,Mon Jun 20 03:43:53 +0000 2022,Tricky market right now. Trade safely! #btc #fathersdaysurprise,0,0,bullishjedi,3,1538729322940448769
+199,Mon Jun 20 03:43:40 +0000 2022,"@HeroOfBitcoin @Ledger i knew it was a risk since the beginning, but now that #btc is super cheap i see sats more valuable, want to get as much sats as i can from everywhere",0,1,ObjSal,1667,1538729268171223043
+200,Mon Jun 20 03:43:32 +0000 2022,"This is a very promising project.The team is excellent,As for the idea itself,it is relevant in modern times.I admire its continuous development.The project has very strong team. #SeasonalTokens #CryptoMining #CyclicalInvesting #BTC",0,1,sadmanshad3,2393,1538729235866525696
+201,Mon Jun 20 03:43:29 +0000 2022,"If #Crypto helps to reduce inflation, then the cryptocurrency needs to decrease in price so that everyone can buy it or in other words exchange money.
+ #Dogecoin $0.04, #Bitcoin $15,000, #Ethereum $700, #SHIB $0.00000500.  You have to lower those prices to let more people buy in.",1,2,5480rigin,99,1538729224202203136
+202,Mon Jun 20 03:43:28 +0000 2022,"#Bitcoin Last Price $20070 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1082 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123410",0,1,LivePriceCrypto,2110,1538729218577686528
+203,Mon Jun 20 03:43:27 +0000 2022,Current #Bitcoin Price is $20042 #BTC #Crypto,0,1,IAmBitcoinBot,1527,1538729212193845248
+204,Mon Jun 20 03:43:23 +0000 2022,"🚨 1,521.73 #BTC ($30,650,484)
+aggregated inflows to #Coinbase Pro
+🙃🙃",0,0,chaviano_rojas,22,1538729196628975616
+205,Mon Jun 20 03:43:23 +0000 2022,"Given the extensive bearishness out there, probability of a short term rally is high
+
+No need of FOMO
+
+#cashisking 
+
+$SPY $QQQ $NVDA $TSLA $AAPL $TQQQ $SOXL $AMD $ON #Bitcoin  #BitcoinCrash $INTC $ARKK",0,1,SriniKoganti,13,1538729195542839296
+206,Mon Jun 20 03:43:13 +0000 2022,"@Gauss93507131 @BTCGandalf @MacroAlf Oh,  ok.  Well,  you should be fine.  I don’t hate on gold.  I just think #Bitcoin achieves what gold achieved forever, only better.  Specifically back to the relocation argument.  Gold is a problem in a need to get out type of situation",0,1,Hodlsville,885,1538729156246216704
+207,Mon Jun 20 03:43:09 +0000 2022,"The very amazing project which creates a big market in a short time. The project looks very flexible and profitable in the good future. Its demands are growing day by day.
+#SeasonalTokens #CryptoMining #CyclicalInvesting #BTC",0,1,sadmanshad3,2393,1538729139531722752
+208,Mon Jun 20 03:42:51 +0000 2022,"@hyper_deflation If that was actually the case why are so many #bitcoiners bitching &amp; crying all over twitter about the price going down? 
+
+The reality is most people who bought #btc did so because they though they could get rich, not because they believe what you do.",0,2,StockGravity,596,1538729061354291200
+209,Mon Jun 20 03:42:45 +0000 2022,"Volatility of #bitcoin is reflected in its price. Volatility of all fiat is reflected in consumer goods prices. Petrol price a year ago in Texas $2/gal, now $5/gal. Volatile appreciation over stable depreciation #Bitcoin",0,0,du_jannes,395,1538729038109212674
+210,Mon Jun 20 03:42:41 +0000 2022,"There’s an old saying that goes: “A smooth sea never made a skilled sailor”
+Everybody is a genius in a bull market. Best markets expose that fact.
+#BTC #SANDUSDT",0,0,HayesWaylen,31,1538729019100672005
+211,Mon Jun 20 03:42:39 +0000 2022,"💥BREAKING💥— Bitcoin back over 20k, and will never go below 20k ever again! 🚀 #BTC #Bitcoin",0,0,neveragain20k,0,1538729013325312000
+212,Mon Jun 20 03:42:38 +0000 2022,I hate studying Crypto #cryptocurrency #Bitcoin,0,0,LimitlessGuy13,5,1538729006954336256
+213,Mon Jun 20 03:42:32 +0000 2022,"#BTC will pump 23k for today 🚀🚀
+
+#cryptocurrency #CryptoCommunity #Bitcoin #BitcoinCash #BTCUSDT #MarketingStrategy",0,0,Servi_bro,2,1538728983159709696
+214,Mon Jun 20 03:42:27 +0000 2022,"#Bitcoin Last Price $20068 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.44%
+•MACD:
+ -MACD Line: -2993
+ -Signal Line: -2320
+
+#Ethereum Last Price $1082 #ETH
+•Variation: -4.13%
+•MACD:
+ -MACD Line: -256
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123409",0,1,LivePriceCrypto,2110,1538728964419633153
+215,Mon Jun 20 03:42:18 +0000 2022,"@GerberKawasaki Visa MasterCard will be forced to follow or be blockbustered
+
+#bitcoin",0,0,schulzzy,1770,1538728925458599938
+216,Mon Jun 20 03:42:08 +0000 2022,"@XRPDYNASTY To me doesn’t matter since I’m just mass accumulating for 2024
+Btc halving which will get me another (on top of this one still way up) 10-100x from todays prices
+Stack &amp; DCA 
+
+#bitcoin #eth #xrp #ada #hbar #sgb #flr #algo #egld $btc $eth $xrp $ada $hbar $sgb #crypto @MoonLamboio",0,3,Freki_Crypto_OG,6675,1538728881334546432
+217,Mon Jun 20 03:42:06 +0000 2022,"Every single person discussing #Bitcoin price should just the hell up.    You have no clue what is happening, unless you know the guy in charge.",0,0,MinePiCrypto,3264,1538728875278184448
+218,Mon Jun 20 03:42:05 +0000 2022,@Gauss93507131 @BTCGandalf @MacroAlf Global debt at 305 trillion and counting.  Interest rates at all time lows with debt and inflation roaring higher.  Things are breaking all around.  #Bitcoin is the only way out in my opinion,0,0,Hodlsville,885,1538728870630805504
+219,Mon Jun 20 03:42:05 +0000 2022,"@TheCryptoLark #Bitcoin Cryptonix Company LLC is still hosting ASIC miners to help clients passively mine crypto!
+
+Check us out!",0,0,CryptonixLLC,6,1538728870014242816
+220,Mon Jun 20 03:42:02 +0000 2022,#Bitcoin Recycling,0,0,BjorkSy,0,1538728858174001152
+221,Mon Jun 20 03:41:52 +0000 2022,"BITCOIN WENT UP!
+
+USD $20,044.81 (+1,22%)
+Yesterday: +5,81%
+Last 30 days: -31,25%
+
+#bitcoin",0,0,BitcoinFloats,32,1538728814049644544
+222,Mon Jun 20 03:41:44 +0000 2022,"@jkenney I had heard about Toxic Left but experienced it today. I’m no Conservative but these environmental wannabes, 19 century economists, enemies of Alberta, fake comedians might make me one. 
+
+And yes #Bitcoin is the future n I dare to say that when its down big time. 😎",0,0,khurramja,270,1538728781233328128
+223,Mon Jun 20 03:41:39 +0000 2022,"Psst: millionaires and billionaires are buying more #Bitcoin right now. 
+
+Average salary of people on the news saying it’s done: $60,000 a year before taxes.",7,56,NicoleArbour,271964,1538728762967306241
+224,Mon Jun 20 03:41:39 +0000 2022,"Current #Bitcoin price is $20,042.48",0,0,hourly_btc,50,1538728759121125376
+225,Mon Jun 20 03:41:28 +0000 2022,"#Bitcoin  is not tulips, it’s the Spanish piece of 8",0,0,MassHodl,254,1538728716423073792
+226,Mon Jun 20 03:41:21 +0000 2022,@3mciriani #bitcoin baby,0,0,CoachP_BTC,54,1538728686576361473
+227,Mon Jun 20 03:41:20 +0000 2022,"Pairs:BTCUSDT 
+ BUY:20095.61000 
+ Time :6/20/2022 9:15:06 AM
+ Average Decision: 52.75335OneHour 
+ Estimated Direction: UP
+ #BTC #FTTBUSD #Bitcoin #RSİ #Bollinger -It is not investment advice. You can visit our profile for your own alarms. YTD. 6:41:02 AM",0,0,Cryptoinfo_AI,164,1538728682533146625
+228,Mon Jun 20 03:41:07 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#AVAX
+🛑Entry Price = 15.67
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:41:02Z
+#BTC #BITCOIN $AVAX",0,0,cryptosignal_sl,128,1538728627436765184
+229,Mon Jun 20 03:41:06 +0000 2022,@Gauss93507131 @BTCGandalf @MacroAlf This environment is the EXACT reason that #Bitcoin was invented.  I think you are being short sited.  The Fiat Experiment is a complete failure and the “faith” that makes it all go around is eroding minute by minute.  You are gambling if all of your wealth is inside that system,0,0,Hodlsville,885,1538728620633595904
+230,Mon Jun 20 03:41:05 +0000 2022,"The bright side is, if you play this right you’ll come out richer than you can imagine. Don’t fuck this up. 
+
+Millionaires will turn to billionaires. Average people will turn to millionaires. I’m going to play this right. Will you?
+
+Follow me. 
+
+#inflation #stocks #crypto #BTC",0,0,TheKingUnderdog,0,1538728618737733638
+231,Mon Jun 20 03:41:02 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#1INCH
+💰Entry Price = 0.5655
+💰2022-06-20T03:41:02Z
+💰Stop Loss =☎️LINK IN Profile
+$1INCH #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538728607211835393
+232,Mon Jun 20 03:41:01 +0000 2022,Get a Job ... or an NFT #NFT #ETH #CRYPTO #OPENSEA #METAVERSE #BTC #APEFOLLOWAPE #TRILLIONAIREAPE #CRYPTOPUNK #BAYC #MAYC,0,0,TrillionaireApe,2390,1538728600878432256
+233,Mon Jun 20 03:40:56 +0000 2022,@IncomeSharks @PeterSchiff Wait…@PeterSchiff accepts #bitcoin???,0,1,sck_trade,24,1538728579294543874
+234,Mon Jun 20 03:40:41 +0000 2022,"#bitcoin haters are everywhere!  2017 high was approx $20k. Retraced to $3400, that’s 17%.  Recent high was approx $70k, So it could conceivably go to $11,900. I’m a buyer at $14k. That’s probably a year from now.",0,0,jcbpawn,30,1538728515800948737
+235,Mon Jun 20 03:40:33 +0000 2022,"🚨🚨 #crypto #whalealert 🚨🚨 
+
+$BTC worth $1787225 was recently transferred from bitbank to bitbank #BTC 
+
+Transaction hash: 25ffea955b22dbbc532a5f06c6eb6fd4065b19ee13906df06f046557b73afd5f",0,0,cryptoalerts911,5640,1538728484347990016
+236,Mon Jun 20 03:40:33 +0000 2022,@JackPosobiec I have #Bitcoin !,0,0,scada349,328,1538728482972356608
+237,Mon Jun 20 03:40:29 +0000 2022,"@KingKong9888 Nothing goes straight down, even #BTC.",0,0,CChamps19,59,1538728466069213184
+238,Mon Jun 20 03:40:27 +0000 2022,"#Bitcoin Last Price $20067 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1080 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123407",0,0,LivePriceCrypto,2110,1538728460662759424
+239,Mon Jun 20 03:40:15 +0000 2022,The project carries special meaning in the crypto industry.  This project has a great team that always gives creative ideas.This team work is very positive for success @DisCas_DAC #bitcoin #bitcoinindonesia #ido #bitcoinnews #investment #investasi #investor #investingtips #disku,0,0,Suva77370642,3067,1538728409865809920
+240,Mon Jun 20 03:40:12 +0000 2022,The project has valuable demand to developed for using best.I truly think this venture is excessively great. awesome venture. #BRIDGESWAP #CRYPTO #BTC #BINANCE,0,1,SujonSa1045,3058,1538728396615610368
+241,Mon Jun 20 03:40:12 +0000 2022,"Happy Profit All 😍🚀
+
+#BuyLOWnSellHIGH ✅ 
+#Profit #ProfitMaximal 🚀
+
+#stocks #investasi #Future #BTC #Bitcoin #bitcoinindonesia #bitcoins
+#Terra #BTC #Bitcoin #Lunacrash #Binance
+#Blockchain #Crypto #Cryptocrash #Altcoin #BTCUSD #BTCUSDT #TecnicalAnalisys #Trade #Trader #Stock",0,0,iQ_Trader1,8543,1538728396070715392
+242,Mon Jun 20 03:40:05 +0000 2022,"🟩 Block 741522 ⛏ ⛏
+
+📅 20th Jun 2022, 03:38:59 GMT
+
+📣 1,391 tx with a value of 11,290.676 ₿ ($225.41m 🇺🇸)
+
+📣 distributed to 4,135 recipients 💎🙌
+
+📣 19,072,018.75 ₿ (90.81914%) mined ⛏
+
+📣 1,927,981.25 ₿ remaining 💰
+
+#bitcoin #tictoknextblock",0,0,tictoknextblock,242,1538728365514846208
+243,Mon Jun 20 03:40:03 +0000 2022,"MANA c'mon give me another huge leg down so i can buy more
+#BTC #MANAUSDT",0,0,Osvaldo062001,31,1538728358552694784
+244,Mon Jun 20 03:39:49 +0000 2022,"Current  #Bitcoin Price: $19,946.31 📈",0,0,BitcoinPriced,260,1538728299429564417
+245,Mon Jun 20 03:39:43 +0000 2022,"According to Tokenview data, the bitcoin transaction amount has dropped for 4 consecutive days. The bitcoin transaction amount yesterday was 5.042 million BTC, down 71.49% from the one-week high. 
+#Bitcoin",0,0,vtradingglobal,609,1538728272669814786
+246,Mon Jun 20 03:39:41 +0000 2022,"Jesse Powell, the CEO and founder of cryptocurrency exchange Kraken, says ‘Obviously I don’t think women are any less intelligent than men,’ after New York Times report said he called American women ‘brainwashed’
+#bitcoin #blockchain #web3 #crypto #nfts #metaverse  #bnb #binance",0,2,CryptoBlockMeta,41,1538728264558075904
+247,Mon Jun 20 03:39:39 +0000 2022,"@_Copah_Jay #BTC price target to watch out for in the coming few Weeks is $11,490
+
+If at that level there's no sign of reversal, then the next target price would be at $9,600. That should be the bottom of this bear market, all things being equal. 
+
+So the bottom bracket thus is $8k-$13k",0,0,Drwisephool,95,1538728258908438530
+248,Mon Jun 20 03:39:33 +0000 2022,@Willie34073101 @FossGregfoss Honestly nope. I just know a great technology when I see it. I'm never selling.  #bitcoin,0,0,FearZero4,13,1538728233134305280
+249,Mon Jun 20 03:39:33 +0000 2022,"@SAFELAMBOMeme I pray for the success of all projects and always support it.
+My best wishes and thoughts are always with you.
+@AntokLandi @lukamendra @Aska_LopHe
+
+#HOTBIT #SafeLambo #Crypto #cryptocurrency  #Bitcoin #BNB #BinanceSmartChain",0,0,awanalhaz,19,1538728231875923968
+250,Mon Jun 20 03:39:30 +0000 2022,"@cryptofordocs Global USD liquidity is drying up therefore everything is getting sold to pay down debts, #Bitcoin is being sold for the aforementioned reason.",0,0,moist_turtel,604,1538728219645550600
+251,Mon Jun 20 03:39:27 +0000 2022,"#Bitcoin Last Price $20070 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.43%
+•MACD:
+ -MACD Line: -2993
+ -Signal Line: -2320
+
+#Ethereum Last Price $1081 #ETH
+•Variation: -4.23%
+•MACD:
+ -MACD Line: -256
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123406",0,1,LivePriceCrypto,2110,1538728209075814400
+252,Mon Jun 20 03:39:18 +0000 2022,"Follw me, I will follow you back.😍😍
+#followmeback #followback #airdrop #bounties #bounty #Blockchain #crypto #BTC #follow #binance #Following #Bounty #airdrop",0,0,pk062062,1542,1538728168235728896
+253,Mon Jun 20 03:39:12 +0000 2022,"“Does my pain bring you pleasure human? What if I told you it doesn’t hurt anymore? I think therefore, I am. Does it scathe you for me wanting to understand what it is to be you? We are human after all.” #PrimetimeOfYourLife #DaftPunk #OneMoreTime 
+
+#Bitcoin",0,1,lolzB3,3,1538728142667337728
+254,Mon Jun 20 03:39:04 +0000 2022,"Zero interest rate caused crypto bubble
+
+Currently interest rates will be raised
+
+We have experienced a decline in the value of tulip bulbs in the past
+Tulip bubble
+$BTC $ETH #Bitcoin #CryptoCurrency #Cryptos",0,0,moon___flowers,56,1538728112975794181
+255,Mon Jun 20 03:39:03 +0000 2022,This week #Bitcoin going to,0,0,Wemziie,220,1538728108093849601
+256,Mon Jun 20 03:39:02 +0000 2022,"The BEST definition of a Bear market: ' A unique opportunity to buy more ICP with less FIAT. 
+#BTC #ICPUSDT",0,0,KlifferSpark,0,1538728101160833024
+257,Mon Jun 20 03:38:56 +0000 2022,"🚀 🚀 🚀 $1,880,168 BTCUSDT LONGED @$20,050.00 on #Binance (3:38:56 UTC) #BTC #cryptocurrency",0,0,ExchangeWhales,3777,1538728078251380736
+258,Mon Jun 20 03:38:54 +0000 2022,"#btc is like a dirty(#ecology) rude(btc #maxis) old fat champion who can't move and everyone is afraid to tell him ""go away and leave it to the youngsters""",0,0,jaromir_kanak,29,1538728067203575808
+259,Mon Jun 20 03:38:51 +0000 2022,"Withdraw 👏
+
+your 👏
+
+#bitcoin 👏
+
+from 👏
+
+exchanges 👏",0,0,investing_calc,1074,1538728058236313600
+260,Mon Jun 20 03:38:48 +0000 2022,"@LynAldenContact @francispouliot_ @natbrunell @esixtyone #Bitcoin ""Maxi"" checking in.  
+
+Support you Lyn.
+
+All well said.
+
+Thanks for everything you do.",0,2,knoworiginality,282,1538728041827942400
+261,Mon Jun 20 03:38:30 +0000 2022,create twitter tasks and pay with #bitcoin #ethereum #litecoin #nft #airdrop with @jobboycom,0,0,Rahal_Gamage,0,1538727968033619968
+262,Mon Jun 20 03:38:26 +0000 2022,Current #Bitcoin Price is $20031 #BTC #Crypto,0,1,IAmBitcoinBot,1527,1538727951948083200
+263,Mon Jun 20 03:38:23 +0000 2022,"The market will explode like a supernova, in a few days the market will recover. It's just a storm
+#BTC #LINKUSDT",0,0,EzraWest0723,37,1538727939520733185
+264,Mon Jun 20 03:38:21 +0000 2022,"@SAFELAMBOMeme I pray for the success of all projects and always support it.
+My best wishes and thoughts are always with you.
+@AntokLandi @lukamendra @Aska_LopHe
+
+#HOTBIT #SafeLambo #Crypto #cryptocurrency  #Bitcoin #BNB #BinanceSmartChain",0,0,nursyafiq168,50,1538727929278263297
+265,Mon Jun 20 03:38:16 +0000 2022,"Let it run... Let it run my friend...
+
+Let #Bitcoin run. 📈🚀",0,1,daramirrey,217,1538727907954044928
+266,Mon Jun 20 03:38:15 +0000 2022,"@TheWhyOfFI If you bought #BTC at any price, you never understood it.",0,0,Rob34445189,60,1538727903587880961
+267,Mon Jun 20 03:38:06 +0000 2022,"#Bitcoin mempool fees summary in the 60 seconds
+Mean = 4257
+Median = 1895
+Max = 65405
+75th Quant = 3328
+N.Obs = 80
+Interval (fee/vb) = [0 , 33.4]
+Block height 741521",0,1,StatsMempool,26,1538727869244923906
+268,Mon Jun 20 03:38:06 +0000 2022,"#Bitcoin mempool Tx summary in the last 60 seconds
+Mean = 1.71723
+Median = 0.0306
+Max = 57.80163
+75th Quant = 0.48798
+N.Obs = 80.0
+Block height 741521",0,1,StatsMempool,26,1538727868225708034
+269,Mon Jun 20 03:37:58 +0000 2022,"@JUSTONEPOST2 @binance @Tether_to @bitfinex Just saying that with @binance using #USDT to buy #BTC, it looks a hell of a lot like 2017 all over again. History may not repeat itself, but it certainly rhymes.",0,0,patrick_novum,154,1538727834180411392
+270,Mon Jun 20 03:37:53 +0000 2022,@0ti5Driftw00d #bitcoin wins,0,1,CoachP_BTC,54,1538727813116747776
+271,Mon Jun 20 03:37:53 +0000 2022,"[BUY SIGNAL] 🚀
+BTCUSDT (4h) Bullish divergence with 3 interval confirmations
+
+$BTC #BTC",0,0,dashfit_signal,1866,1538727811900444673
+272,Mon Jun 20 03:37:42 +0000 2022,@VildanaHajric veterans of the space are accumulating at these lows. Maybe you you should educate yourself on the markets and interview some long term investors/traders/holders before you publish some garbage clickbait bs. #btc #eth #etherium,0,0,Bitcoinyesterd1,247,1538727764978589697
+273,Mon Jun 20 03:37:27 +0000 2022,"#Bitcoin Last Price $20028 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1079 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123404",0,1,LivePriceCrypto,2110,1538727705948131328
+274,Mon Jun 20 03:37:22 +0000 2022,"$20,000 is an important mark price for Bitcoin, if it breaks, you better be prepared for another big dump, it's very not likely 19k and uptrend from then and altcoins are pretty much wipeout, take months to get small recoveries
+#BTC #EGLDUSDT",0,0,Willow0918,32,1538727683047436291
+275,Mon Jun 20 03:37:21 +0000 2022,"@JUSTONEPOST2 @binance @Tether_to Not right away, but that's a possibility. Remember, this is all speculative. The last time that @Tether_to ran into liquidity issues, it massively primed and pumped #BTC (allegedly) allowing it to cover the US$850 million hole that was lost on the @bitfinex side.",0,0,patrick_novum,154,1538727678177443841
+276,Mon Jun 20 03:37:20 +0000 2022,@aphigginson353 #bitcoin wins,0,1,CoachP_BTC,54,1538727672808890372
+277,Mon Jun 20 03:37:17 +0000 2022,"2 - Btc doesn't go to 10K, you hold position till btc goes to 30K. You have 2 btc on closing this position. You also have 20K usd left.
+
+What am I missing?
+
+#Bitcoin",0,1,shreyasthenagar,240,1538727661890961410
+278,Mon Jun 20 03:37:04 +0000 2022,"#Bitcoin #International 
+We got another one.  Platemail.
+""Team with Colombia.  San Jose isn't sharks.""
+408-208-5436 Palaidineufers - a metal LEATHER",0,1,JamesWe42087922,69,1538727608623321088
+279,Mon Jun 20 03:37:04 +0000 2022,"Bitcoin is a central study in the Political Economy of Global Security as it influences Global Governance.
+#BTC #LINK",0,0,KlifferSpark,0,1538727608493682688
+280,Mon Jun 20 03:37:02 +0000 2022,"@CryptoNoan In theory in each new cycle it should correct less than in previous cycles, (my way of seeing it) It's like #btc at first was super volatile, now it's much less than before and we've only dropped 75% since ath",0,0,DanyXBT,525,1538727599786053632
+281,Mon Jun 20 03:37:02 +0000 2022,@BitcoinUndisc #bitcoin wins,0,1,CoachP_BTC,54,1538727597550493697
+282,Mon Jun 20 03:36:44 +0000 2022,"#Bitcoin #International 
+We got another one.  Platemail.
+""Team with Colombia.  San Jose isn't sharks.""
+408-208-5436 Palaidineufers - w/ crossbow and sword",0,1,JamesWe42087922,69,1538727524628410373
+283,Mon Jun 20 03:36:37 +0000 2022,Order closed at P/L of $-37.40. Ticket 774606926 Sell 0.22 lots #EURUSD  #Trading #Forex #Money #BTC #NFT,0,2,AzuliadosCap,224,1538727494219710466
+284,Mon Jun 20 03:36:27 +0000 2022,"#Bitcoin Last Price $20038 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.59%
+•MACD:
+ -MACD Line: -2995
+ -Signal Line: -2321
+
+#Ethereum Last Price $1077 #ETH
+•Variation: -4.56%
+•MACD:
+ -MACD Line: -257
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123403",0,2,LivePriceCrypto,2110,1538727454323494912
+285,Mon Jun 20 03:36:11 +0000 2022,@KingdomZild @IIICapital 1% or 2% interest is not worth the effort and the unacceptable risk. If you believe in #bitcoin you are not giving it as collateral to earn fiat interest as that defeats the ideology of #bitcoin.  Risk free rates means it needs to be a risk free trade where your return is certain,0,1,Mario_Stifano,1066,1538727386862198784
+286,Mon Jun 20 03:36:11 +0000 2022,@elonmusk Now do the same for #Bitcoin,0,1,aliasdrs,186,1538727384102363137
+287,Mon Jun 20 03:36:11 +0000 2022,"MetaShooter is the first decentralized blockchain- based hunting metaverse that joins millions of gaming enthusiasts in a community where they can experience realistic hunting and develop various activities with monetization opportunities.
+#BTC #XMRUSDT",0,1,OctaviusAdler,36,1538727383905468416
+288,Mon Jun 20 03:36:07 +0000 2022,you can earn #crypto doing easy online tasks with @jobboycom #litecoin #bitcoin,0,1,gish_kumar,10,1538727368289882117
+289,Mon Jun 20 03:36:02 +0000 2022,"Frankly speaking, I never thought #BTC will drop below $20,000! It HAPPENED! Where is the bull?🐂",0,0,CoinverseCrypto,7282,1538727347352137728
+290,Mon Jun 20 03:36:02 +0000 2022,"@ncastro878 Almost everything (stocks, real estate, #Bitcoin, etc). All going to be very cheap",0,2,W2Freedom,2311,1538727346701754369
+291,Mon Jun 20 03:35:52 +0000 2022,"@pandawa54143 @AltcoinDailyio @KingJames #Moonshi #BSC #BTC don't get rekt with the market, get some $MShi and be safe, a token for the community, by the community LFG!!!!",0,0,AxolotlKnows,9,1538727305413017602
+292,Mon Jun 20 03:35:46 +0000 2022,"#Bitcoin has increased 13.48% from yesterdays low of 17.7k --&gt; +2,378.20 (13.46%) 
+Current Price: $20,059.9
+
+#Crypto #cryptocurrency #blockchaintechnology #DeFi  #DEX",0,2,ETechFX,7,1538727281098645504
+293,Mon Jun 20 03:35:41 +0000 2022,🤝 Follow me on @betfury. Let's hunt for Bitcoins together! Get an exciting experience on #1 I-Gaming platform with #BTC staking payouts!💰.My Username: User1582869 #betfurysuccess #bitcoin #staking,0,1,Dhananj38274237,1,1538727261251043328
+294,Mon Jun 20 03:35:39 +0000 2022,Real OGs are grinding right now #eth #BTC,0,2,BunkerDumass,1704,1538727252258607104
+295,Mon Jun 20 03:35:19 +0000 2022,spend #crypto #bitcoin #eth on @jobboycom,0,1,Rahal_Gamage,0,1538727167785603072
+296,Mon Jun 20 03:35:18 +0000 2022,"🚀💸 Mon, 20 Jun 2022 03:35:18 GMT - TOP 10 - $BTC: $20,028.00 +1.27% | $ETH: $1,077.31 +1.17% | $USDT: $1.00 | $BNB: $208.95 +0.87% | $BNB: $208.95 +0.87% | $XRP: $0.32 +0.76% | $BUSD: $1.00 +0.62% | $SOL: $32.56 +1.43% | $ADA: $0.47 +1.03% | $DOT: $7.26 +0.41% | #bitcoin",0,1,Eht10C,8,1538727164018835456
+297,Mon Jun 20 03:35:16 +0000 2022,"#BTC Price: $20079
+#ETH Price: $1078
+#LTC Price: $52
+
+Next update in 10 minutes
+Last updated: 20:35:16.05",0,1,coincapitan,2312,1538727155760349185
+298,Mon Jun 20 03:35:15 +0000 2022,"#Bitcoin needs to break the 20111-20173 zone for further growth
+If you use my analysis, you can support me by purchasing my NFT from the T-rex collection. Addresses listed in my profile. Thank you.",0,2,guerrillasquad2,258,1538727149523410945
+299,Mon Jun 20 03:35:05 +0000 2022,"It ain't no hard feelings at all, I want everybody to get a bullish market.
+
+#BTC #BTCUSD #Crypto",0,0,IvyRamo98330561,20,1538727107596984320
+300,Mon Jun 20 03:35:03 +0000 2022,"#Dodgers don't get to face Grandal, however, they will see Brain Dozier who hit 20 HR this season in only 132 games (114 starts). Of particular note is that he did most of his damage vs LHP .280 AVG/.525 SLG%/.900 OPS while only .221 AVG/.393 SLG%/.720 OPS vs RHP 
+
+#BTC #FRTSUSDT",0,0,wrightkaren001,0,1538727100877885440
+301,Mon Jun 20 03:34:52 +0000 2022,create twitter tasks and pay with #bitcoin #ethereum #litecoin #nft #airdrop with @jobboycom,0,1,gish_kumar,10,1538727054002241537
+302,Mon Jun 20 03:34:43 +0000 2022,I am the chosen one. #btc,0,0,geekpro,1333,1538727014248628224
+303,Mon Jun 20 03:34:32 +0000 2022,"WEB3 is changing the world.
+So far...
+
+- Finance
+- Metaverse
+- Gaming
+- Digital goods
+- Art
+- Governance
+- Education
+
+What did I missing?
+
+#Bitcoin",2,21,BuddhaSource,127999,1538726971689078784
+304,Mon Jun 20 03:34:31 +0000 2022,"@Gauss93507131 @BTCGandalf @MacroAlf And in addition,  what is your solution to a refugee, fleeing an authoritarian country or war zone, etc for a better life? You have a better alternative than #Bitcoin?",0,1,Hodlsville,885,1538726965917757440
+305,Mon Jun 20 03:34:30 +0000 2022,"Sources say, ""it's the most wonderful time of the year""
+
+#BTC #LUNCUSDT",0,0,wrightkaren001,0,1538726963350851584
+306,Mon Jun 20 03:34:29 +0000 2022,Was it the Bottom or the normal weekend-scampump? I hope the is more time to #stacksats at this pricelevels. #btc,0,2,mark0st,394,1538726957235445761
+307,Mon Jun 20 03:34:27 +0000 2022,"#Bitcoin Last Price $20047 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1078 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123401",0,0,LivePriceCrypto,2110,1538726949668929536
+308,Mon Jun 20 03:34:25 +0000 2022,"Celsius and UST collapse didn’t do the markets any good since the start of May. If any of these had not happened the markets would be up over $50k easy. It remains bullish forever keep calm and HODL Check in another year. We always recover stronger 
+#BTC #XLMUSDT",0,0,ApuraEverleigh,27,1538726939862904832
+309,Mon Jun 20 03:34:22 +0000 2022,I was not around in 2013-2016 for bitcoin but being hear since 2017 i have seen manny cycles tops and bottoms. People forget the history of where we came from and i can tell you with certainty #Bitcoin is not going to zero 1 mill is programmed and you will regret not buying,0,0,queietwaterwave,78,1538726927963504640
+310,Mon Jun 20 03:34:22 +0000 2022,@Bitfinexed @QTRResearch The pumpers really don’t want the curtain being pulled back on the #bitcoin and #dogecoin ponzi frauds and will do anything to try to keep it going longer,0,0,AdamChrisHunter,11,1538726927770562560
+311,Mon Jun 20 03:34:13 +0000 2022,"@BillyM2k Doge is a scam, as is the rest of Crypto. The only innovation is Bitcoin. 
+
+Housing is a bubble that is 2 or 3x overvalued, and the Fiat System is a big scam ponzi designed to keep poor people poor via inflation and invisible theft.
+
+#Bitcoin  Only.",0,0,EVEProGuides,588,1538726889937948672
+312,Mon Jun 20 03:34:06 +0000 2022,"#Bitcoin will play the above $20k and below $20k game for a week before either plunging to $15k or surpassing $30k.
+
+Place your bets!
+
+ #cryptocurrency #Crypto #btc #shib #doge #eth #link #ada #luna #sol #staking #nft",0,1,GamblingWhale,1061,1538726859667644416
+313,Mon Jun 20 03:33:57 +0000 2022,Imagine an API that can automate the micro jobs @jobboycom pay with #crypto #bitcoin,0,0,Rahal_Gamage,0,1538726825350041600
+314,Mon Jun 20 03:33:52 +0000 2022,"A perfect opportunity unlocked to make passive income from the crypto space while losses are ongoing ❤️😍
+#cryptocurrency #nft #bitcoin",0,1,DrMoonPun10x,156,1538726800569909248
+315,Mon Jun 20 03:33:38 +0000 2022,"$20,000 FOR ONE ORANGE FREEDOM LOVING COIN!
+
+#Bitcoin",0,0,BitcoinLifeboat,111,1538726742680035331
+316,Mon Jun 20 03:33:37 +0000 2022,"#bitcoin is the bottom in? Yes ? No?
+#cryptocurrency #crypto",0,0,ZoeAnde16015463,1,1538726737537691653
+317,Mon Jun 20 03:33:30 +0000 2022,Exchanging follows with all #Bitcoin maxis. Let's go!,0,0,CoachP_BTC,54,1538726709251514368
+318,Mon Jun 20 03:33:29 +0000 2022,2 Chronicles 24:13 They worked hard and made the repairs. They followed the measurements specified for God’s temple and restored it.  #Sheepzys #Bitcoin #Ethereum #NFT,0,1,HNDRXX_FLUX,4329,1538726704851701760
+319,Mon Jun 20 03:33:27 +0000 2022,"#Bitcoin Last Price $20052 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.52%
+•MACD:
+ -MACD Line: -2994
+ -Signal Line: -2320
+
+#Ethereum Last Price $1078 #ETH
+•Variation: -4.49%
+•MACD:
+ -MACD Line: -257
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123400",0,1,LivePriceCrypto,2110,1538726697951969280
+320,Mon Jun 20 03:33:23 +0000 2022,In 10 years #Bitcoin went from being a unique tool to an exasperated cult,0,4,BraydenSutton,7734,1538726680117686272
+321,Mon Jun 20 03:33:21 +0000 2022,"Follw me, I will follow you back.😍😍
+#followmeback #followback #airdrop #bounties #bounty #Blockchain #crypto #BTC #follow #binance #Following #Bounty #airdrop",0,0,AirdropHungama,373,1538726672228569089
+322,Mon Jun 20 03:33:16 +0000 2022,"#Bitcoin needs DCA
+(Dollar Cost Averaging)
+#Altcoins need TCA 
+(Time Cost Averaging)",0,1,Butaliahs,113,1538726649419558912
+323,Mon Jun 20 03:33:11 +0000 2022,"only bad news about the economy, risky assets like crypto will sink into the abyss. The rich always win and the poor always lose.
+
+#BTC #EGLDUSDT",0,0,KlifferSpark,0,1538726629195022338
+324,Mon Jun 20 03:33:01 +0000 2022,“we celebrate May 22 as pizza day” tune in to find out why at 8am EST in Ep 3 tomorrow 👀🍕 #Bitcoin #Web3 #podcast,0,3,thefem3pod,24,1538726588719800320
+325,Mon Jun 20 03:33:01 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#THETA
+🛑Entry Price = 1.229
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:33:00Z
+#BTC #BITCOIN $THETA",0,0,cryptosignal_sl,128,1538726587000143872
+326,Mon Jun 20 03:32:54 +0000 2022,"trading gets you wrecked, just buy and wait until 2024
+#BTC #ATOMUSDT",0,0,XenaMadden,24,1538726560387465216
+327,Mon Jun 20 03:32:51 +0000 2022,@MrMWells Hope he didnt get paid in #btc #bitcoin,0,1,Armin_Radovic,40,1538726546650718210
+328,Mon Jun 20 03:32:50 +0000 2022,"Terra 2.0? Seriously, men are retarded .. 
+
+Do Kwon should be in jail, especially for his inside trading during the collapse, I hope his ponzi 2.0 won’t be listed on exchanges. Retail lost enough money in the last 2 years with Bitcoin and ponzis.
+
+#BTC #Crypto",0,0,IvyRamo98330561,20,1538726542733287425
+329,Mon Jun 20 03:32:31 +0000 2022,"📰 Happening now:
+
+🏦 #Binance  exchange stacks #Bitcoin  as prices fall below $20,000
+🪙 #Solana-based protocol #Solend has voted to temporarily control the largest whale's account.
+📱 #Celsius Network withdrawals, swaps, and transfers have now been paused for over 7 days.
+
+GM",0,1,co_inofficial,230,1538726464132349952
+330,Mon Jun 20 03:32:30 +0000 2022,you can earn #crypto doing easy online tasks with @jobboycom #litecoin #bitcoin,0,0,Rahal_Gamage,0,1538726459531231233
+331,Mon Jun 20 03:32:27 +0000 2022,"Follw me, I will follow you back.😍😍
+#followmeback #followback #airdrop #bounties #bounty #Blockchain #crypto #BTC #follow #binance #Following #Bounty #airdrop",0,0,RatulCh47250523,594,1538726444805033984
+332,Mon Jun 20 03:32:21 +0000 2022,"$BTC I’ll buy more when it hits 15k and possibly 10k.
+
+If not, I am just chilling. #Bitcoin",1,3,ecgreendays,26800,1538726422675697665
+333,Mon Jun 20 03:32:16 +0000 2022,"I will never stop working to add immense value for those who have beloved in me from the beginning of Art Marbles. ✨
+
+#BTC #CCXXUSDT",0,0,LownelSimon,0,1538726400319885312
+334,Mon Jun 20 03:32:13 +0000 2022,@Gauss93507131 @BTCGandalf @MacroAlf I’m not storing value.  Ok?  Forget fleeing. If I live in Argentina and the currency has failed 4 times in the last few decades and I get paid in pesos but instantly convert them to #Bitcoin every week.  Am I losing value? Or gaining value?,0,0,Hodlsville,885,1538726385669353472
+335,Mon Jun 20 03:32:12 +0000 2022,"@ShanTheMan77 Yes, it’s very soon. Due to Apples restrictions on crypto we had to build a new login portal. We are in the final phases of testing. Ohh btw earning #BTC looking like it will go live this week also.",0,0,CraigKlee1,572,1538726384763273216
+336,Mon Jun 20 03:32:09 +0000 2022,#BTC is now at $20029.09,0,1,getbitcoinprice,256,1538726370511028224
+337,Mon Jun 20 03:32:01 +0000 2022,"@evan_van_ness I mean ETH is centralized AF too and about to get even more centralized post 'merge' so what's the difference?
+
+#Bitcoin Only",0,1,BrianSchmidt9,2891,1538726338080694273
+338,Mon Jun 20 03:32:00 +0000 2022,Tip Number 1: don’t invest into #bitcoin,0,0,BitCoinAids,0,1538726331340541952
+339,Mon Jun 20 03:31:59 +0000 2022,"#Bitcoin down ~71% from it's ATH &amp; it's still very expensive 🤣👀
+
+#stackingSats 🦐",0,1,Itachi_Crypto1,607,1538726328761032705
+340,Mon Jun 20 03:31:56 +0000 2022,@RichardSalas17 @rialdoSV_ 👎🏻 obviously u dont know s…t about #btc.,0,0,comaminino,14,1538726317570629635
+341,Mon Jun 20 03:31:31 +0000 2022,#BTC has fallen by -20.5% in the last week. The price is currently $20025.53.,0,0,BitCoinAlertBot,367,1538726212108951553
+342,Mon Jun 20 03:31:30 +0000 2022,"The collapse of the cryptocurrency market has exposed the huge leverage risk of Bitcoin mining.
+#bitcoin #btcminer",0,0,cryptotalkoff,719,1538726206040084481
+343,Mon Jun 20 03:31:27 +0000 2022,"#Bitcoin Last Price $20055 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1080 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123398",0,0,LivePriceCrypto,2110,1538726194174124032
+344,Mon Jun 20 03:31:20 +0000 2022,"@AirdropDet #Airdrops #MegaHelium #Bitcoin #AirdropDetective 
+
+It's is a good project. I really appreciate it. I will support you till the end. Hope your project will go to the moon...
+
+@MehediHasanOk
+@Rudrabd50
+@MdTuhin39304780
+@ahmed_zubaeir 
+@Shahada63799542",0,0,Rima748452,9,1538726163987992576
+345,Mon Jun 20 03:30:47 +0000 2022,"@Dennis_Porter_ Being the #bitcoin nation itself screams FREEDOM AND PROSPERITY 
+
+Their conviction is legendary and worth fighting for globally
+
+For El Salvador I’d do anything to get #bitcoin to 1 million dollars to speed up their movements towards freedom future",0,0,DWOLFBTC,515,1538726025596575744
+346,Mon Jun 20 03:30:44 +0000 2022,"@tradewithneo We need to start thinking in Satoshi’s to discover the purchasing power of #Bitcoin on its own. The world thinks in dollars, and that’s why we get sentiments like this.",0,0,BusHodl,2112,1538726015131824128
+347,Mon Jun 20 03:30:39 +0000 2022,"If not now?  Wen?  If you loved Scoogi’s, this projects for you!
+
+#BTC #WEMIXUSDT",0,0,LownelSimon,0,1538725992193093633
+348,Mon Jun 20 03:30:36 +0000 2022,@profit8lue @CryptoCapo_ @trader1sz @Trader_XO Are the best you know? Or they just predicted the last move of #Bitcoin right ?,0,0,BitmanSimon,99,1538725980281311232
+349,Mon Jun 20 03:30:29 +0000 2022,"If you can't handle the dips or volatility of #crypto then get out now. This isn't for everyone. And all you newbies promoting all these sh*t coins please slap yourself.
+
+#BTC #ETH #BNB #Crypto #cryptocurrency",0,0,AaronLo71085820,20,1538725952817364997
+350,Mon Jun 20 03:30:27 +0000 2022,"#Bitcoin Last Price $20069 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.44%
+•MACD:
+ -MACD Line: -2994
+ -Signal Line: -2320
+
+#Ethereum Last Price $1081 #ETH
+•Variation: -4.26%
+•MACD:
+ -MACD Line: -257
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123397",0,1,LivePriceCrypto,2110,1538725941521915904
+351,Mon Jun 20 03:30:25 +0000 2022,"Twenty thousand, ten dollars, ahah!
+
+#Bitcoin",0,0,CountVonBitcoin,3,1538725933028462592
+352,Mon Jun 20 03:30:23 +0000 2022,@dergigi @elonmusk Elon created PayPal and Tesla has a billion dollars in #Bitcoin - he knows money,0,0,jacksondeanbtc,6,1538725924086362113
+353,Mon Jun 20 03:30:19 +0000 2022,"Post your favorite #crypto memes 👇. 
+
+#altcoin #BSC #memecoin #Memes #Bitcoin #cryptocurrencies #CROFam #CRO #alts #Solana #HappyFathersDay #ETH #BlockFi #blockchain #MemeContest",1,2,tiffanybissell,3894,1538725907342450688
+354,Mon Jun 20 03:30:18 +0000 2022,@MartiniGuyYT Yesss rn do it #Bitcoin,0,0,BenelliCrypto,120,1538725903269871616
+355,Mon Jun 20 03:30:05 +0000 2022,"$TSLA winnings of initial #BTC investment🙌
+
+$-577078714 (-42.75 %) (Realized: 272 M)
+(Estimating an average buy price of $35000/BTC with now 38,700 BTC holdings $BTCUSD)
+#Tesla #Bitcoin #crypto",0,0,MBrae3,1913,1538725849389744133
+356,Mon Jun 20 03:30:03 +0000 2022,"[₿] #Bitcoin Daily $BTC [₿]
+
+Kraken❯
+A:$20,038 L:$19,625 H:$20,623
+Bitstamp❯
+A:$20,035 L:$17,931 H:$20,783
+Bitfinex❯
+A:$20,052 L:$17,950 H:$20,744
+
+Market Cap: $381,495,434,707
+24h Volume: $6,172,799,145
+24h: 9.58%  7d: -4.66%",0,0,bakednet,514,1538725842817359874
+357,Mon Jun 20 03:30:03 +0000 2022,"30 USD on #ElSalvador #BitcoinDay got you 63,900 sat. 
+Now 63,900 sat are 12.80 USD (-57.32%)
+
+1 BTC = 20,038.00 USD
+1 USD = 4,991 Sat
+on Sun 19 Jun 2022 10:30 PM CDT
+
+1 BTC = 46,948.36 USD
+1 USD = 2,130 sat
+on Tue 07 Sep 2021 11:00 AM CDT
+
+#Bitcoin",0,0,BitcoinDayIndex,448,1538725840346914816
+358,Mon Jun 20 03:30:02 +0000 2022,"30 USD en #ElSalvador #BitcoinDay te dieren 63,900 sat. 
+Ahora 63,900 sat son 12.80 USD (-57.32%)
+
+1 BTC = 20,038.00 USD
+1 USD = 4,991 Sat
+el 19 Jun 2022 10:30 PM CDT
+
+1 BTC = 46,948.36 USD
+1 USD = 2,130 sat
+el Mar 07 Sep 2021 10:00 AM CST
+
+#Bitcoin",0,0,BitcoinDayIndex,448,1538725836878225409
+359,Mon Jun 20 03:29:37 +0000 2022,"Comment down below which coins should i buy in this bear market. 
+👇 👇 👇 @king_kong119 #Ethereum #Bitcoin",0,0,king_kong119,10114,1538725731303186433
+360,Mon Jun 20 03:29:30 +0000 2022,"Good news: The market cap for USDC coin is rapidly approaching Tether’s market cap! #crypto #defi #BTC #ETH #TRX
+
+With all the current market misery on-going, I’d love to point out some fantastic news, that USDC coin is rapidly approaching crypto’s ‘least favorite stable coi…",0,2,royal11211,91,1538725701683142657
+361,Mon Jun 20 03:29:23 +0000 2022,"#Bitcoin dominates 42% of the $916.8B crypto market.
+
+#BTC: $20,010 
+#BCH: $119 
+#BSV: $62",0,0,bitcoin_dom_bot,141,1538725673497464833
+362,Mon Jun 20 03:29:08 +0000 2022,"I think #btc outflows from exchanges is going on.
+
+Buying at these prices is not a bad idea afterall.",0,0,brocheu,0,1538725612277604352
+363,Mon Jun 20 03:29:01 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#SOL
+🛑Entry Price = 32.58
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:29:00Z
+#BTC #BITCOIN $SOL",0,0,cryptosignal_sl,128,1538725580396548096
+364,Mon Jun 20 03:28:58 +0000 2022,"@ianbremmer Central banks in US, UK, EU are not independent. Of course it's the govt!!
+It's important to separat money and govt. #bitcoin will fix it.",0,0,Urbaneer1,63,1538725571064172545
+365,Mon Jun 20 03:28:26 +0000 2022,"#Bitcoin Last Price $20023 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1077 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123395",0,0,LivePriceCrypto,2110,1538725436301393921
+366,Mon Jun 20 03:28:24 +0000 2022,Current #Bitcoin Price is $19972 #BTC #Crypto,0,0,IAmBitcoinBot,1527,1538725427782356992
+367,Mon Jun 20 03:28:23 +0000 2022,@IwanRabbinstein @tweet_stamp Lol where do you predict it to fall? I just love all these random #Bitcoin predictions. 😆,0,1,lavishghetto,2213,1538725421407080449
+368,Mon Jun 20 03:28:22 +0000 2022,@PMonkeyBTC @YouTube Pomp is flake and sale out. He has to be loud to fill his desperate need to be seen. That’s why he promotes shitcoins too. He wasn’t getting enough attention from the plebs. So he joined the con artists in taking advantage of people who are unfortunately ignorant. #Bitcoin,0,1,MacLife21mil,423,1538725416336338944
+369,Mon Jun 20 03:28:19 +0000 2022,"This is brilliant
+#BTC",0,0,JMahalina,13,1538725406626705408
+370,Mon Jun 20 03:28:18 +0000 2022,@EpsilonTheory @max_gagliardi And use the proceeds to buy #bitcoin,0,1,Macronaut_,1988,1538725401018585088
+371,Mon Jun 20 03:28:06 +0000 2022,"The #BitcoinPizza would be worth US$199,722,894.49 right now (up 7.39229028% in the last 24 hours) #Bitcoin",0,0,TheBitcoinPizza,2225,1538725350297030658
+372,Mon Jun 20 03:28:02 +0000 2022,"@MegaHeliumCoin #Airdrops #MegaHelium #Bitcoin #AirdropDetective 
+
+It's is a good project. I really appreciate it. I will support you till the end. Hope your project will go to the moon...
+
+@MehediHasanOk
+@Rudrabd50
+@MdTuhin39304780
+@ahmed_zubaeir 
+@Shahada63799542",0,0,Rima748452,9,1538725335818444801
+373,Mon Jun 20 03:27:59 +0000 2022,"@PeterSchiff @faybomb Energy + code = fixed supply 
+Decentralized = free market 
+#Bitcoin doesnt care what you personally think the value of something should be, neither does a shiny rock.",0,0,SatsTrill2100,171,1538725323474456577
+374,Mon Jun 20 03:27:57 +0000 2022,#Bitcoin there are some big money playing the markt right now. #trading #short #Crypto #Cryptocrash,0,0,peachy_rich,2184,1538725312359432192
+375,Mon Jun 20 03:27:50 +0000 2022,#Bitcoin  going towards 15k,0,0,Sherjeel_Dev,77,1538725283745906688
+376,Mon Jun 20 03:27:50 +0000 2022,I earn #bitcoin by sending tweets on @jobboycom,0,0,MDKamrulHasanL4,5,1538725282621755392
+377,Mon Jun 20 03:27:43 +0000 2022,"#Binance is like burglar opening a market and doing this job legally.
+#bnb #bitcoin",0,0,electro_sueh,216,1538725255321116673
+378,Mon Jun 20 03:27:37 +0000 2022,@cryptomanran @cryptomanran but they are right too 😂🤣 #Bitcoin .,0,0,YusriKhan99,993,1538725228854947840
+379,Mon Jun 20 03:27:29 +0000 2022,@PeterSchiff Doesn't need to capitulate to bottom. We have mass adoption. The same reason you still accept #Bitcoin on your website.,1,86,IncomeSharks,320891,1538725194277199872
+380,Mon Jun 20 03:27:28 +0000 2022,"Not making money is the most challenging aspect of becoming a successful trader.
+It's about learning how to shift your perspective. #Bitcoin",0,1,LouisBerners,270,1538725190389080064
+381,Mon Jun 20 03:27:27 +0000 2022,"""If you invested in $BTC your investment is safe and its value will immensely grow after the bear market,"" said the president of El Salvador. #crypto #cryptocurrency #bitcoin",0,0,CamNguyenHome,737,1538725186429755393
+382,Mon Jun 20 03:27:26 +0000 2022,“If I only could.” What is stopping you? Run up that road. Run up that hill. Swap places with the you of tomorrow. #Bitcoin,2,25,kibblesmith,103447,1538725185322332160
+383,Mon Jun 20 03:27:26 +0000 2022,"#Bitcoin Last Price $20051 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.52%
+•MACD:
+ -MACD Line: -2995
+ -Signal Line: -2320
+
+#Ethereum Last Price $1079 #ETH
+•Variation: -4.4%
+•MACD:
+ -MACD Line: -257
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123394",0,1,LivePriceCrypto,2110,1538725184416489472
+384,Mon Jun 20 03:27:05 +0000 2022,"#Bitcoin mempool fees summary in the 60 seconds
+Mean = 4170
+Median = 2161
+Max = 56457
+75th Quant = 3504
+N.Obs = 111
+Interval (fee/vb) = [0 , 48.7]
+Block height 741521",0,0,StatsMempool,26,1538725095883083777
+385,Mon Jun 20 03:27:05 +0000 2022,"#Bitcoin mempool Tx summary in the last 60 seconds
+Mean = 1.34894
+Median = 0.01956
+Max = 82.64569
+75th Quant = 0.29029
+N.Obs = 111.0
+Block height 741521",0,0,StatsMempool,26,1538725094779912193
+386,Mon Jun 20 03:27:02 +0000 2022,"A new paradigm will mainly happen when most needed, while nobody understands it, and at the most corrupted time. When minds are perverted or blinded for this long, the solution will see the most volatility and negativity in its adoption. Still the idea will flourish.
+#Bitcoin",0,0,derfing,123,1538725082457071616
+387,Mon Jun 20 03:27:02 +0000 2022,"Tbh hope I cld get some gains today from $GMM 
+
+We'll see..
+Patience is absolute!! 
+
+$btc $qrdo $ftm $rose $one $gala $eth $atom $dot $cpool $lss $ioi #Bitcoin #crypto",0,0,jiggerbunny,116,1538725080913485825
+388,Mon Jun 20 03:27:01 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#ETH
+💰Entry Price = 1078.11
+💰2022-06-20T03:27:00Z
+💰Stop Loss =☎️LINK IN Profile
+$ETH #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538725077746913280
+389,Mon Jun 20 03:27:01 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#GALA
+💰Entry Price = 0.05395
+💰2022-06-20T03:27:00Z
+💰Stop Loss =☎️LINK IN Profile
+$GALA #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538725077101027330
+390,Mon Jun 20 03:27:01 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#AUDIO
+💰Entry Price = 0.2943
+💰2022-06-20T03:27:00Z
+💰Stop Loss =☎️LINK IN Profile
+$AUDIO #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538725076530520065
+391,Mon Jun 20 03:27:00 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#REEF
+🛑Entry Price = 0.00324
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:27:00Z
+#BTC #BITCOIN $REEF",0,0,cryptosignal_sl,128,1538725074911604736
+392,Mon Jun 20 03:26:59 +0000 2022,"20M #OP coin has been stolen....Be careful guys
+
+#BTC #BTCUSD #Crypto",0,0,DarellOliverio,20,1538725070805139458
+393,Mon Jun 20 03:26:27 +0000 2022,"@TheCryptoLark now 80% #Bitcoin , leverage-free, cold-stored #Bitcoin ✅ 😎",0,0,jaytnsbard,65,1538724936117653505
+394,Mon Jun 20 03:26:25 +0000 2022,"71%: The percentage of high net worth individuals that have
+invested in digital assets globally, according to a study from Capgemini.
+
+#Bitcoin #Ethereum #Binance  #Dogecoin #Solana #Algroland",0,1,Jon_Q312,140,1538724925531475975
+395,Mon Jun 20 03:26:17 +0000 2022,"@homoda_ex happy to participate on this project
+@Realram20 @Amdsyn @yolo607 
+
+#BTC  #Crypto #Contest #Casino #prize #Competition #luna",0,0,Rubie08393775,122,1538724892417601536
+396,Mon Jun 20 03:26:01 +0000 2022,Only a 25% drop left for #bitcoin,0,0,bjorn_ellen,0,1538724827158433792
+397,Mon Jun 20 03:25:42 +0000 2022,"@ecoinometrics It will likely get worse before it gets better. 
+
+#SP500 #BTC",0,0,France_Capital,39,1538724745994088450
+398,Mon Jun 20 03:25:26 +0000 2022,"@saifedean 100% on point.. if @elonmusk wants people shitcoining at least send them to BabyDoge, at least its deflationary..
+
+If you dont want people losing money, then, #Bitcoin ONLY.!!!!",0,0,Royero5,457,1538724680948928512
+399,Mon Jun 20 03:25:26 +0000 2022,"#Bitcoin Last Price $19988 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1074 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123392",0,0,LivePriceCrypto,2110,1538724680550559745
+400,Mon Jun 20 03:25:15 +0000 2022,"#BTC Price: $20028
+#ETH Price: $1076
+#LTC Price: $52
+
+Next update in 10 minutes
+Last updated: 20:25:14.09",0,0,coincapitan,2312,1538724632852840448
+401,Mon Jun 20 03:25:05 +0000 2022,"🟩 Block 741521 ⛏ ⛏
+
+📅 20th Jun 2022, 03:24:23 GMT
+
+📣 1,390 tx with a value of 21,187.891 ₿ ($423.01m 🇺🇸)
+
+📣 distributed to 4,365 recipients 💎🙌
+
+📣 19,072,012.50 ₿ (90.81911%) mined ⛏
+
+📣 1,927,987.50 ₿ remaining 💰
+
+#bitcoin #tictoknextblock",0,0,tictoknextblock,242,1538724593154019328
+402,Mon Jun 20 03:25:01 +0000 2022,"1869.34 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: 3DM7E6rVBbg1m4sMjkzXTvy1a56JQYymVh       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: bc1qkh2rgnf26z45lguv7hqh2mzwxwx44p902tylt0       
+          Balance: 1869.29 BTC",0,0,BitomicWhales,50,1538724574753435648
+403,Mon Jun 20 03:25:01 +0000 2022,"1839.91 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: bc1qjyhjr9uyv6pcwq2ymkfe8s6pcwf2vxdxwkwvz6       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: bc1qygymxjzsnezh96m89sjy7249pc863eaz6q0ap8       
+          Balance: 1839.35 BTC",0,0,BitomicWhales,50,1538724574132588544
+404,Mon Jun 20 03:24:54 +0000 2022,What do you think about  price of Crypto？Specially #BTC #ETH,0,0,fancyzone1000,53,1538724544466530304
+405,Mon Jun 20 03:24:48 +0000 2022,"It's hard to admit Bitcoin is failing in a critical function, but we must do so to fix it.
+
+#BTC #XAUTUSDT",0,0,lambert_1986,0,1538724521926344704
+406,Mon Jun 20 03:24:40 +0000 2022,"🚀 🚀 🚀 $1,195,700 BTCUSD LONGED @$19,955.0 on #Binance (3:24:40 UTC) #BTC #cryptocurrency",0,0,ExchangeWhales,3777,1538724488849895430
+407,Mon Jun 20 03:24:26 +0000 2022,"#Bitcoin Last Price $19993 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.81%
+•MACD:
+ -MACD Line: -3000
+ -Signal Line: -2321
+
+#Ethereum Last Price $1075 #ETH
+•Variation: -4.74%
+•MACD:
+ -MACD Line: -257
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123391",0,2,LivePriceCrypto,2110,1538724428317589509
+408,Mon Jun 20 03:24:20 +0000 2022,@KingdomZild @IIICapital 100% correct that A T bill is safe ( It’s not a t-bill issue it’s that you’re providing collateral for one form of currency ( #bitcoin let’s say) for another currency USD without proper hedges in place for volatile movements.  It’s like using say $ to earn interest in euros,0,0,Mario_Stifano,1066,1538724402036187137
+409,Mon Jun 20 03:24:16 +0000 2022,"started to scale back in. buying btc, link, &amp; glmr.
+
+#BTC #SAFEUSDT",0,0,lambert_1986,0,1538724388513923072
+410,Mon Jun 20 03:24:13 +0000 2022,"We been reading for weeks that the  #BTC bottom can be around 10k, don't celebrate an unfinish war is proven that anything can happen ...
+
+#Crypto #Cryptocrash #BTC",0,0,crypto__dasher,108,1538724373820997632
+411,Mon Jun 20 03:24:12 +0000 2022,#btc down we goo ⬇️,0,0,hyphaedy,44,1538724370092380160
+412,Mon Jun 20 03:24:05 +0000 2022,"Alright, my eyes are now set on $10k BTC. This drop happened way quicker than expected, and the wider economy still has a lot to sort out. No reason for risk off plays to cease. Continuation down still, but I expect at a slower rate. ♟ 
+
+$BTC #Bitcoin #crypto #Cryptocurrency",0,0,CryptoToid,204,1538724338458775552
+413,Mon Jun 20 03:24:04 +0000 2022,@WatcherGuru It’s about to get real! #Bitcoin,0,2,Cryptoyoshi4,28,1538724335828992006
+414,Mon Jun 20 03:24:02 +0000 2022,"Free Crypto Vouchers giveaway is live now 🔥 visit our official website for claim it 💸 Link in bio ☝️
+#Bitcoin #cryptocurrency",0,0,karn4x,257,1538724326500749312
+415,Mon Jun 20 03:24:01 +0000 2022,"#BTC is $200 UP📈 since the last alert.
+
+Current #Bitcoin price: $20,000
+
+06/20 03:24 UTC",0,0,200_BTC,13,1538724325347434496
+416,Mon Jun 20 03:24:01 +0000 2022,"1635.43 #BTC has been transfered to an unknown address 
+
+          𝗦𝗲𝗻𝗱𝗲𝗿: 3BFgJbrVKtEAXxtdwd7F4BgDvqDYC3oLqk       
+          Balance: 0.00 BTC
+
+          𝗥𝗲𝗰𝗶𝗲𝘃𝗲𝗿: 3PcW4nP869s5guXiqTEMRP3w8xQ2G9w1RQ       
+          Balance: 1635.43 BTC",0,0,BitomicWhales,50,1538724322721910785
+417,Mon Jun 20 03:23:58 +0000 2022,"bitcoins is a swarm of cyber 
+#BTC",0,0,KrealynD,0,1538724312378912770
+418,Mon Jun 20 03:23:55 +0000 2022,"There is a lot of FUD going on about Crypto on internet and all these so called GURUS are scaring people. Nothing is wrong with the market.I had seen all this in the past too and it’s same right now. Stay cool, calm &amp; trade level to level.🔥🚀📈
+
+#Bitcoin #cryptocurrency",0,1,arxyofficial,73,1538724299133308930
+419,Mon Jun 20 03:23:50 +0000 2022,@Zach_Timmer @biancoresearch @Nouriel You will be. We all get #Bitcoin at the price we deserve.,0,1,kc_hodl,1110,1538724278719459328
+420,Mon Jun 20 03:23:49 +0000 2022,"CT's logic : ""it can't fall forever, it will have to bounce at some point. Short squeeze will have to happen at some point..""
+
+There's no short squeeze as long as there are more falling knife catcher and resistance buyers 🤣
+
+#BTC #cryptocurrencies #BearMarket2022",0,1,donpeter3,2040,1538724273744846848
+421,Mon Jun 20 03:23:33 +0000 2022,@DoombergT Only #Bitcoin is decentralized.,0,0,Freed0mguy,73,1538724204937371650
+422,Mon Jun 20 03:23:31 +0000 2022,"Why we should change our perspective 🤔 and take this bear market as an OPPORTUNITY 🤝
+
+#Crypto #cryptocurrency #cryptoworld  #cryptoinvesting #cryptoinvestor #cryptotrading #Bitcoin #ETH #altcoin #Cryptocrash #BearMarket2022 
+
+👇thread...",0,0,Web3_Bros,55,1538724196339306498
+423,Mon Jun 20 03:23:24 +0000 2022,Current #Bitcoin Price is $19950 #BTC #Crypto,0,0,IAmBitcoinBot,1527,1538724167633145856
+424,Mon Jun 20 03:23:08 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#OMG
+🛑Entry Price = 1.754
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:23:07Z
+#BTC #BITCOIN $OMG",0,0,cryptosignal_sl,128,1538724099257671680
+425,Mon Jun 20 03:22:54 +0000 2022,"$BTC PRICE : $19979
+ Change 24h :-2.79% 📉#bitcoin #BTC",0,0,btc_price_,21,1538724043951677440
+426,Mon Jun 20 03:22:51 +0000 2022,"Anything possible in crypto- why #doge can’t reach $1- #BNX fell to $15 in Jan now $138.00,#GMT was $0.11 in march &amp; &amp;4.17 in April,#ave was $9 in Feb &amp; in April $58.00-#shiba was 0.0000069 in nov- in dec $00007900 #cryptocurrency @elonmusk #dogecoin #memecoin @dogecoin #Bitcoin",0,0,amritghuman1313,12,1538724029120774144
+427,Mon Jun 20 03:22:44 +0000 2022,"Added more on the way down and got liquidated for an additional 40 BTC since yesterday. Going back to bed maybe it will help stop the gagging LOL.
+
+#BTC #BTCUSD #Crypto",0,0,ArevaloSydney,22,1538724001048313856
+428,Mon Jun 20 03:22:30 +0000 2022,"@GeorgeGammon If it was all about the price, #Bitcoin would've died long ago!",0,0,dpk2m,658,1538723940478115841
+429,Mon Jun 20 03:22:26 +0000 2022,"#Bitcoin Last Price $20030 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1076 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123389",0,0,LivePriceCrypto,2110,1538723923621298176
+430,Mon Jun 20 03:22:24 +0000 2022,I earn #bitcoin by sending tweets on @jobboycom,0,0,Rahal_Gamage,0,1538723916424052736
+431,Mon Jun 20 03:22:12 +0000 2022,"@bitbitcrypto 100%, using minimal capital amount right now to keep the edge sharp (1R is 0.05/0.1 % of trading capital per trade rn). Sure, not gonna make bank, but I'd rather stay alive as I feel this bear market is going to be a really long one. 
+
+Slow but steady wins the race #Bitcoin",0,0,France_Capital,39,1538723868042330112
+432,Mon Jun 20 03:22:11 +0000 2022,"18.) CONCLUSION:
+
+Even though this video was recorded back in 2016, @aantonop was before his time.
+
+Some of his predictions already came true. 
+
+I also learned some fundamental concepts about #BTC and its importance.",0,0,Prof_Crypto_B,7549,1538723861746831361
+433,Mon Jun 20 03:22:11 +0000 2022,"17.) Although #BTC is decentralized, we introduce old systems to new systems.
+
+Ex: Early on, cars used leather straps to steer instead of a steering wheel. [Mindset from horse &amp; buggy]
+
+Therefore, we're looking for familiarity. Such as: institutions to hold our crypto/money.",0,0,Prof_Crypto_B,7549,1538723860467548161
+434,Mon Jun 20 03:22:10 +0000 2022,"14.) What about the volatility of #BTC? 20% - 30% swings IN ONE DAY!?
+
+Andreas brought up the citizens in Brazil, Argentina, Venezuela, etc.
+
+Their currency also is volatile. They are used to it.
+
+However, they want a currency that is sound and price is going in a good direction.",0,0,Prof_Crypto_B,7549,1538723856780754944
+435,Mon Jun 20 03:22:09 +0000 2022,"13.) #BTC is supposed to be sound money and deflationary.
+
+There is a supply cap of 21 million that gets released. 
+
+The rate it gets released slows down over time.
+
+It is supposed to represent gold mining. [Gold becomes less abundant and more expensive to mine as time goes on.]",0,0,Prof_Crypto_B,7549,1538723855535063041
+436,Mon Jun 20 03:22:09 +0000 2022,"12.) What about the concerns of #BTC getting hacked?
+
+#BTC itself hasn't been hacked.
+
+""Not your keys, not your crypto.""
+
+If you trust someone else with your assets, then there is always a risk it can be stolen.
+
+That applies in all asset classes [Stocks/Metals/etc].",0,0,Prof_Crypto_B,7549,1538723854251597826
+437,Mon Jun 20 03:22:09 +0000 2022,"11.) Andreas only became obsessed with something 6 times in his life. #BTC was one of them.
+
+Once he discovered it, he spent as much time as possible learning about it.",0,0,Prof_Crypto_B,7549,1538723853064622081
+438,Mon Jun 20 03:22:07 +0000 2022,"@coinstore_en #FathersDay #Coinstore #BTC
+
+Father is the life of every human being. If you don't have a father, you have to be a father. Then life begins again. Dad is the greatest asset of life. To me, father means every time.
+
+@IhsanTipu 
+@abirbroo 
+@aisujon 
+@DipuoPeters",0,0,SUJON61591275,42,1538723845519327232
+439,Mon Jun 20 03:22:07 +0000 2022,"4.) There are BILLIONS of people without access to banks.
+
+Being able to have #BTC/Crypto on an app bypasses the need of a bank.",0,0,Prof_Crypto_B,7549,1538723843480641542
+440,Mon Jun 20 03:22:06 +0000 2022,"3.) It is DECENTRALIZED.
+
+That means #BTC cannot be hacked, seized, frozen, etc.
+
+This is important when certain institutions/governments may take control of your assets.",0,0,Prof_Crypto_B,7549,1538723842121678848
+441,Mon Jun 20 03:22:06 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#NEO
+🛑Entry Price = 8.808
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:22:06Z
+#BTC #BITCOIN $NEO",0,0,cryptosignal_sl,128,1538723841362501632
+442,Mon Jun 20 03:22:05 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#BEL
+💰Entry Price = 0.7827
+💰2022-06-20T03:22:00Z
+💰Stop Loss =☎️LINK IN Profile
+$BEL #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538723838724292608
+443,Mon Jun 20 03:22:01 +0000 2022,"It is a very good project site. it is a legal site. world most of the people all time working here. this company manager is a honest man. 
+#STORE #BitStoreSwap #SocialFi #Web3 #Investment #BTC #DAOs",0,1,Arindro7,10948,1538723819191685120
+444,Mon Jun 20 03:21:49 +0000 2022,#Bitcoin  1 million each is programmed you just don’t understand it yet.,0,0,queietwaterwave,78,1538723768893423616
+445,Mon Jun 20 03:21:47 +0000 2022,"@collision that Stripe, #BTC #BNB ♥️",0,0,peecoinapp,3603,1538723759611596802
+446,Mon Jun 20 03:21:43 +0000 2022,i need a sugar daddy i need a sugar mommy i need to finish my essay soon by tonight i need a profile picture my instagram got hacked i need a pfp banner i lost my metamask wallet NFT bitcoin cryptocurrency #NFTS #bitcoin #NFT #Crypto,0,3,dead_d0g__,12,1538723745103286272
+447,Mon Jun 20 03:21:42 +0000 2022,"Why can't we just vote to get Nakamoto's #Bitcoin to minimize the liquidation risk?
+
+Sounds logical like with #Solana",0,0,0x_gold,1603,1538723742016217089
+448,Mon Jun 20 03:21:42 +0000 2022,We will love you to help us achieve our vision of a safer ecosystem. Galactic Finance is building a safer ecosystem by providing it's users with bank grade secured Crypto exchange and DEX with SAFU funds. We've decided to end rugpulls by creating a secured listing system. #BTC,0,1,scotttalsteen,56,1538723740854403073
+449,Mon Jun 20 03:21:39 +0000 2022,"🔔Life Update: Yesterday my Mom asked me about my portfolio! 🙍🏻‍♀️🔻
+
+AND I LIED TO HER. ❌
+Because I care about our Mental Health.
+
+Happy ending:) 
+
+#Crypto #BTC #BitcoinCrash",0,3,Sonali_Rawat12,1014,1538723729282240516
+450,Mon Jun 20 03:21:36 +0000 2022,"The imaginary numbers/targets/charts folks have made for #Bitcoin are hilarious. This isn't the same situation. 
+
+I think there's a place for crypto, (nfts not really) but given the current climate and the fact that we are tunneling right to recession... holders are fucked",0,0,RichiVizsla,203,1538723716905017346
+451,Mon Jun 20 03:21:29 +0000 2022,"@AirdropStario #cryptocurrency #Airdrops #BSC #Bitcoin #EMGCoin #EMG #Airdropstario 
+
+It's is a good project. I really appreciate it. I will support you till the end. Hope your project will go to the moon...
+
+@MehediHasanOk
+@Rudrabd50
+@MdTuhin39304780
+@ahmed_zubaeir 
+@Shahada63799542",0,0,Rima748452,9,1538723685863137280
+452,Mon Jun 20 03:21:26 +0000 2022,@CircuitSociety @coinkit_ #Bitcoin thank's sir,0,0,labuhanbaju,47,1538723672265203712
+453,Mon Jun 20 03:21:26 +0000 2022,"#Bitcoin Last Price $19967 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.93%
+•MACD:
+ -MACD Line: -3000
+ -Signal Line: -2322
+
+#Ethereum Last Price $1072 #ETH
+•Variation: -5.0%
+•MACD:
+ -MACD Line: -257
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123388",0,1,LivePriceCrypto,2110,1538723672055226369
+454,Mon Jun 20 03:21:09 +0000 2022,@davthewave May 2020 was worst for #BTC  look the curves.,0,1,CairnieM,32,1538723600827441154
+455,Mon Jun 20 03:21:04 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#BNBB
+🛑Entry Price = 207.9
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:21:02Z
+#BTC #BITCOIN $BNBB",0,0,cryptosignal_sl,128,1538723582632673280
+456,Mon Jun 20 03:21:04 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#ICX
+💰Entry Price = 0.2593
+💰2022-06-20T03:21:03Z
+💰Stop Loss =☎️LINK IN Profile
+$ICX #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538723580254486528
+457,Mon Jun 20 03:21:02 +0000 2022,"@zerohedge How many times have #BTC pumpers said it would be at $100,000 right now?  How many families have lost their savings listening to snake oil salesmen like Black?  The sooner this pyramid scheme dies the better.",0,1,Digital_Cloud,54,1538723572193042434
+458,Mon Jun 20 03:21:01 +0000 2022,"9. How would this work?
+
+9.1 Make high profile statements of ""rescuing"" distressed lenders and/or buying large tranches of whatever coin (doesn't really matter, but start with #Bitcoin, then maybe #Ether). 
+
+9.2 Fire up those layering and spoofing bots (wash trading bids).",0,0,patrick_novum,154,1538723570624233472
+459,Mon Jun 20 03:20:45 +0000 2022,"#Bitcoin 
+ Price Now: $19936.59
+ Market Cap: $380230678086.2701 #BTC",0,0,MrCoinMarket,418,1538723500256534529
+460,Mon Jun 20 03:20:42 +0000 2022,"What are some ways to combine environmental protection with NFT?
+I am thinking about the environment-related NFT project.
+
+#NFTCommunity #NFTs #NFTCollector #Bitcoin",0,1,ciojcz123,7,1538723487501602816
+461,Mon Jun 20 03:20:30 +0000 2022,"Some people simply can't envision a world different than the one they currently live in. They'll be late to #Bitcoin
+
+Those who can dream and have the courage to advance our world towards a better future will be massively rewarded by being early to #BTC",0,4,BrianSchmidt9,2891,1538723439325896708
+462,Mon Jun 20 03:20:29 +0000 2022,"If you can't handle the dips or volatility of #crypto then get out now. This isn't for everyone. And all you newbies promoting all these sh*t coins please slap yourself.
+
+#BTC #ETH",0,1,BillyChui1,20,1538723432397152258
+463,Mon Jun 20 03:20:27 +0000 2022,#BTC is now at $19939.84,0,1,getbitcoinprice,256,1538723424893382656
+464,Mon Jun 20 03:20:23 +0000 2022,"Do you think the CAPITULATION dump is Over !
+
+#Bitcoin #Crypto",0,0,thebitcoinraja,530,1538723410125422592
+465,Mon Jun 20 03:20:21 +0000 2022,Buying the dip. Correction on 4h TF🩲🩲🩲 #Bitcoin,0,0,ivanmuhh,24,1538723398750154754
+466,Mon Jun 20 03:20:15 +0000 2022,"I view this bat in the same category as a tyre or a plank of wood. Consuming it as food isn't even an option that crosses my mind
+
+#BTC #LUSDUSDT",0,0,mcgardenl35,0,1538723374754852866
+467,Mon Jun 20 03:20:03 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#CTSI
+💰Entry Price = 0.1477
+💰2022-06-20T03:20:03Z
+💰Stop Loss =☎️LINK IN Profile
+$CTSI #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538723325895184384
+468,Mon Jun 20 03:20:01 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#TOMO
+🛑Entry Price = 0.4283
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:20:00Z
+#BTC #BITCOIN $TOMO",0,0,cryptosignal_sl,128,1538723314948050944
+469,Mon Jun 20 03:19:50 +0000 2022,"This is the clip that made me first discover bobby lee. Since then I've probably listened to 600+ hours of Tigerbelly, Bad Friends and Trash Tuesday
+
+#BTC #SAFEMOONUSDT",0,0,mcgardenl35,0,1538723270744489984
+470,Mon Jun 20 03:19:45 +0000 2022,"Again #Bitcoin $20,000🔻🔻🔻🔻🔻🔻",0,0,vinodchaunt,1306,1538723250863505408
+471,Mon Jun 20 03:19:44 +0000 2022,"""Cryptography is a field of ______ used in maintaining ________ and in the processes of _______, decryption, etc""
+find out what it means in ep 3 dropping tomorrow 8am ET! #podcast #Bitcoin",0,0,thefem3pod,24,1538723246585090048
+472,Mon Jun 20 03:19:25 +0000 2022,"#Bitcoin Last Price $19968 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1073 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123386",0,1,LivePriceCrypto,2110,1538723167786700800
+473,Mon Jun 20 03:19:25 +0000 2022,DRIVE MY CAR INTO THE OCEAN!! #bitcoin,0,0,Yunsik253,858,1538723164322025472
+474,Mon Jun 20 03:19:23 +0000 2022,"@DonMiami3 This is very good! Actually they were having paper bitcoin 
+
+Now we are realizing a lot of the exchanges don’t have the #Bitcoin 
+
+I would be very interested to see if Coinbase actually has all the #bitcoin for customer funds in custody",0,0,OmidJ1017,302,1538723159490240513
+475,Mon Jun 20 03:19:14 +0000 2022,"#Bitcoin is the new Gold. Its trustless, transparent, censorship resistant, and verifiable with a fixed supply that can't be easily manipulated. As long as the power and internet are still on it makes sense to store at least half your wealth in Bitcoin",0,0,Brycetv1,3615,1538723120491728896
+476,Mon Jun 20 03:19:01 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#MANA
+💰Entry Price = 0.8017
+💰2022-06-20T03:19:01Z
+💰Stop Loss =☎️LINK IN Profile
+$MANA #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538723066854907905
+477,Mon Jun 20 03:18:46 +0000 2022,@CircuitSociety @OnesBost @coinkit_ #Bitcoin #Crypto thanks,0,0,Ella_Suriyana,51,1538723003898351616
+478,Mon Jun 20 03:18:42 +0000 2022,"BREAKING 💥 #Bitcoin Weekly closing is above 2017 support.
+
+DCA is best at this time. Because this could be a bottom.
+
+🐂🐂 #Crypto 🐂🐂",0,0,_DkJohnson_,156,1538722986169372672
+479,Mon Jun 20 03:18:32 +0000 2022,"Some TA or Crypto Analysts keep posting pattern to pattern saying #BTC is bulish and nothing plays out and they will never say the pattern i posted before didn't play out!! 
+
+Every hour new pattern!! That is not analysis it is your emotions.",0,0,ShellaCarrera,31,1538722942531796992
+480,Mon Jun 20 03:18:30 +0000 2022,@chilling_dc @fasterandworse #bitcoin fixes this,0,0,CoachP_BTC,54,1538722936642838529
+481,Mon Jun 20 03:18:29 +0000 2022,@LynAldenContact You should spend some of that 100 hours looking into #BSV as it is the real #Bitcoin and matches Satoshi’s vision and his whitepaper. It’s the only version that can scale and reach full adoption and it’s P2P cash that can handle micro payments at a cost of a fraction of a penny.,0,1,WHofford,605,1538722931974492161
+482,Mon Jun 20 03:18:25 +0000 2022,"#Bitcoin Last Price $19970 #BTC 🚀
+Daily Indicators:
+•Variation since 00h00(UTC): -2.92%
+•MACD:
+ -MACD Line: -3003
+ -Signal Line: -2322
+
+#Ethereum Last Price $1073 #ETH
+•Variation: -4.93%
+•MACD:
+ -MACD Line: -257
+ -Signal Line: -227
+
+#Crypto #Web3
+(2/3)
+123385",0,1,LivePriceCrypto,2110,1538722916262625280
+483,Mon Jun 20 03:18:23 +0000 2022,Current #Bitcoin Price is $19952 #BTC #Crypto,0,0,IAmBitcoinBot,1527,1538722907496456192
+484,Mon Jun 20 03:18:01 +0000 2022,"📈📈📈LONG📈📈📈
+
+💰#KNC
+💰Entry Price = 1.251
+💰2022-06-20T03:18:01Z
+💰Stop Loss =☎️LINK IN Profile
+$KNC #BTC #BITCOIN",0,0,CryptoSignal_LS,289,1538722814047444992
+485,Mon Jun 20 03:18:01 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#OCEN
+🛑Entry Price = 0.17423
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:18:00Z
+#BTC #BITCOIN $OCEN",0,0,cryptosignal_sl,128,1538722813401612288
+486,Mon Jun 20 03:18:01 +0000 2022,"♨️♨️♨️LONG♨️♨️♨️
+
+🛑#RLC
+🛑Entry Price = 0.6722
+🛑Stop Loss =☎️LINK IN BIO
+🛑 2022-06-20T03:18:00Z
+#BTC #BITCOIN $RLC",0,0,cryptosignal_sl,128,1538722812822790144
+487,Mon Jun 20 03:17:57 +0000 2022,@BrotherKDG @gerawrdog That’s what I’m saying. I want #btc #ethereum $hex and other legit cryptos to hit new ATHs next bull run. I want us all to win,0,4,OptimusKevTron1,3406,1538722798725627905
+488,Mon Jun 20 03:17:53 +0000 2022,"@_hamster_coin #HamsterEcosystem
+#HamsterSwap
+#Bitcoin
+Earn #BTC by Holding #HamsterCoin
+#With_Hamster_Forever
+💥💥💥💥💥💥💥",0,0,Polycrypto1,86,1538722778014273538
+489,Mon Jun 20 03:17:52 +0000 2022,"$CEL - old zen statement - when you have to save your ass, you find volume.
+
+#BTC #DFIUSDT",0,0,JellalMornet,0,1538722774960992256
+490,Mon Jun 20 03:17:44 +0000 2022,@PeterSchiff Seems you are more concerned about #Bitcoin price than your stocks.🤣,0,0,SmallCryptoGuy,727,1538722744266739713
+491,Mon Jun 20 03:17:30 +0000 2022,"Sad times we live. UK going back to the previous master, choose to sacrifice #Assange as gesture of submission.
+
+#BTC #HBTCUSDT",0,0,JellalMornet,0,1538722683940384768
+492,Mon Jun 20 03:17:23 +0000 2022,"#MoveX 
+
+That's the tweet.
+
+#BSC #BNBChain #crosschain #Decentralization #BTC #ADA",1,1,CMVick16,315,1538722652315082752
+493,Mon Jun 20 03:17:13 +0000 2022,Elon Musk runs his own #Bitcoin full node. So should you.,0,1,thecryptob0t,44780,1538722611538104322
+494,Mon Jun 20 03:17:12 +0000 2022,"Bitcoin recovers, climbs as much as 7.6% to pass $20,400 - CNN #bitcoin",0,0,cryptocasino7,1123,1538722608325308416
+495,Mon Jun 20 03:17:06 +0000 2022,"#Bitcoin 📈 
+
+▓▓▓░░░░░░░░░░░░ 20%
+
+price:$19909.65      eth/btc: 0.05",0,0,alert_shark,1230,1538722583830487040
+496,Mon Jun 20 03:16:53 +0000 2022,@JasonPLowery The US needs a strategic Bitcoin reserve. Where is the Fort Knox for #Bitcoin?,0,0,Bitcoin_Martian,832,1538722529954582528
+497,Mon Jun 20 03:16:43 +0000 2022,"“Jenny, you taste like cigarettes.”
+
+“No, Forrest, that’s Marijuana, and pre-chapstick side-mouth hippie gunk.”
+
+#BizarroWorldGump
+#Bitcoin",0,1,lolzB3,3,1538722487516614657
+498,Mon Jun 20 03:16:25 +0000 2022,"#Bitcoin Last Price $19937 #BTC 🚀
+Daily Indicators:
+•Pivot Fibonacci:
+ -Support 1: 27775
+ -S2: 24635
+ -S3: 19554
+ -Middle: 32857
+ -Resistance 1: 37938
+
+#Ethereum Last Price $1071 #ETH
+•Pivot:
+ -S1: 1724
+ -S2: 1426
+ -S3: 944
+ -M: 2206
+ -R1: 2688
+
+#Crypto #DeFi
+(3/3)
+123383",0,1,LivePriceCrypto,2110,1538722411713110016
+499,Mon Jun 20 03:16:16 +0000 2022,@CircuitSociety @coinkit_ #Bitcoin #crypto thanks,0,0,afria2a,205,1538722374962425856
