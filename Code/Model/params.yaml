@@ -1,0 +1,13 @@
+{
+'file_name' : 'price_sentiment_btc',
+'data_dir' : 'data',
+'model_dir' : 'model',
+'label_name' : 'Change',
+'train_frac' : 0.7,
+'sequence_length' : 96,
+'batch_size' : 32,
+'n_epochs' : 100,
+'n_epochs_stop' : 10,
+'background_data_size' : 900,
+'test_sample_size' : 100
+}
